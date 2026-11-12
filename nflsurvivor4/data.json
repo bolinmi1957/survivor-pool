@@ -1,0 +1,3137 @@
+{
+ "games": {
+  "1": {
+   "LAC": {
+    "opp": "vs ARI",
+    "wp": 80
+   },
+   "JAX": {
+    "opp": "vs CLE",
+    "wp": 79
+   },
+   "DET": {
+    "opp": "vs NO",
+    "wp": 75
+   },
+   "PHI": {
+    "opp": "vs WAS",
+    "wp": 68
+   },
+   "BAL": {
+    "opp": "@ IND",
+    "wp": 62
+   },
+   "CIN": {
+    "opp": "vs TB",
+    "wp": 62
+   },
+   "SEA": {
+    "opp": "vs NE",
+    "wp": 62
+   },
+   "LAR": {
+    "opp": "vs SF (Melb)",
+    "wp": 62
+   },
+   "LV": {
+    "opp": "vs MIA",
+    "wp": 61
+   },
+   "PIT": {
+    "opp": "vs ATL",
+    "wp": 59
+   },
+   "CHI": {
+    "opp": "@ CAR",
+    "wp": 58
+   },
+   "DAL": {
+    "opp": "@ NYG",
+    "wp": 58
+   },
+   "KC": {
+    "opp": "vs DEN",
+    "wp": 58
+   },
+   "TEN": {
+    "opp": "vs NYJ",
+    "wp": 57
+   },
+   "MIN": {
+    "opp": "vs GB",
+    "wp": 52
+   },
+   "HOU": {
+    "opp": "vs BUF",
+    "wp": 52
+   }
+  },
+  "2": {
+   "SF": {
+    "opp": "vs MIA",
+    "wp": 86
+   },
+   "TB": {
+    "opp": "vs CLE",
+    "wp": 77
+   },
+   "BAL": {
+    "opp": "vs NO",
+    "wp": 74
+   },
+   "LAR": {
+    "opp": "vs NYG",
+    "wp": 73
+   },
+   "PHI": {
+    "opp": "@ TEN",
+    "wp": 73
+   },
+   "LAC": {
+    "opp": "vs LV",
+    "wp": 71
+   },
+   "KC": {
+    "opp": "vs IND",
+    "wp": 71
+   },
+   "NE": {
+    "opp": "vs PIT",
+    "wp": 68
+   },
+   "BUF": {
+    "opp": "vs DET",
+    "wp": 68
+   },
+   "CHI": {
+    "opp": "vs MIN",
+    "wp": 65
+   },
+   "DAL": {
+    "opp": "vs WAS",
+    "wp": 61
+   },
+   "SEA": {
+    "opp": "@ ARI",
+    "wp": 62
+   },
+   "GB": {
+    "opp": "@ NYJ",
+    "wp": 62
+   },
+   "HOU": {
+    "opp": "vs CIN",
+    "wp": 57
+   },
+   "DEN": {
+    "opp": "vs JAX",
+    "wp": 57
+   },
+   "CAR": {
+    "opp": "@ ATL",
+    "wp": 57
+   }
+  },
+  "3": {
+   "KC": {
+    "opp": "@ MIA",
+    "wp": 82
+   },
+   "SF": {
+    "opp": "vs ARI",
+    "wp": 76
+   },
+   "SEA": {
+    "opp": "@ WAS",
+    "wp": 74
+   },
+   "BUF": {
+    "opp": "vs LAC",
+    "wp": 73
+   },
+   "DET": {
+    "opp": "vs NYJ",
+    "wp": 71
+   },
+   "GB": {
+    "opp": "vs ATL",
+    "wp": 65
+   },
+   "PHI": {
+    "opp": "@ CHI",
+    "wp": 65
+   },
+   "BAL": {
+    "opp": "@ DAL",
+    "wp": 61
+   },
+   "CIN": {
+    "opp": "@ PIT",
+    "wp": 61
+   },
+   "NYG": {
+    "opp": "vs TEN",
+    "wp": 59
+   },
+   "NO": {
+    "opp": "vs LV",
+    "wp": 59
+   },
+   "JAX": {
+    "opp": "vs NE",
+    "wp": 59
+   },
+   "HOU": {
+    "opp": "@ IND",
+    "wp": 57
+   },
+   "CAR": {
+    "opp": "@ CLE",
+    "wp": 57
+   },
+   "LAR": {
+    "opp": "@ DEN",
+    "wp": 57
+   },
+   "MIN": {
+    "opp": "@ TB",
+    "wp": 54
+   }
+  },
+  "4": {
+   "BAL": {
+    "opp": "vs TEN",
+    "wp": 80
+   },
+   "MIN": {
+    "opp": "vs MIA",
+    "wp": 80
+   },
+   "BUF": {
+    "opp": "vs NE",
+    "wp": 70
+   },
+   "SEA": {
+    "opp": "vs LAC",
+    "wp": 70
+   },
+   "KC": {
+    "opp": "@ LV",
+    "wp": 63
+   },
+   "GB": {
+    "opp": "@ TB",
+    "wp": 60
+   },
+   "DET": {
+    "opp": "@ CAR",
+    "wp": 60
+   },
+   "IND": {
+    "opp": "@ WAS",
+    "wp": 60
+   },
+   "LAR": {
+    "opp": "@ PHI",
+    "wp": 59
+   },
+   "CHI": {
+    "opp": "vs NYJ",
+    "wp": 59
+   },
+   "SF": {
+    "opp": "vs DEN",
+    "wp": 59
+   },
+   "NO": {
+    "opp": "vs ATL",
+    "wp": 59
+   },
+   "PIT": {
+    "opp": "@ CLE",
+    "wp": 57
+   },
+   "HOU": {
+    "opp": "vs DAL",
+    "wp": 57
+   },
+   "CIN": {
+    "opp": "vs JAX",
+    "wp": 57
+   },
+   "ARI": {
+    "opp": "@ NYG",
+    "wp": 54
+   }
+  },
+  "5": {
+   "DAL": {
+    "opp": "vs TB",
+    "wp": 78
+   },
+   "CIN": {
+    "opp": "@ MIA",
+    "wp": 70
+   },
+   "HOU": {
+    "opp": "@ TEN",
+    "wp": 70
+   },
+   "JAX": {
+    "opp": "vs PHI (Lon)",
+    "wp": 69
+   },
+   "DET": {
+    "opp": "@ ARI",
+    "wp": 63
+   },
+   "NE": {
+    "opp": "vs LV",
+    "wp": 60
+   },
+   "DEN": {
+    "opp": "@ LAC",
+    "wp": 60
+   },
+   "WAS": {
+    "opp": "vs NYG",
+    "wp": 59
+   },
+   "CHI": {
+    "opp": "@ GB",
+    "wp": 59
+   },
+   "LAR": {
+    "opp": "vs BUF",
+    "wp": 57
+   },
+   "SEA": {
+    "opp": "vs SF",
+    "wp": 57
+   },
+   "ATL": {
+    "opp": "vs BAL",
+    "wp": 57
+   },
+   "PIT": {
+    "opp": "vs IND",
+    "wp": 57
+   },
+   "NYJ": {
+    "opp": "vs CLE",
+    "wp": 57
+   },
+   "MIN": {
+    "opp": "@ NO",
+    "wp": 54
+   }
+  },
+  "6": {
+   "LAR": {
+    "opp": "vs ARI",
+    "wp": 82
+   },
+   "NE": {
+    "opp": "vs NYJ",
+    "wp": 71
+   },
+   "KC": {
+    "opp": "vs LAC",
+    "wp": 71
+   },
+   "SF": {
+    "opp": "vs WAS",
+    "wp": 70
+   },
+   "IND": {
+    "opp": "vs TEN",
+    "wp": 68
+   },
+   "BUF": {
+    "opp": "@ LV",
+    "wp": 65
+   },
+   "BAL": {
+    "opp": "@ CLE",
+    "wp": 58
+   },
+   "JAX": {
+    "opp": "vs HOU",
+    "wp": 57
+   },
+   "PIT": {
+    "opp": "@ TB",
+    "wp": 57
+   },
+   "CAR": {
+    "opp": "@ PHI",
+    "wp": 58
+   },
+   "CHI": {
+    "opp": "@ ATL",
+    "wp": 54
+   },
+   "NO": {
+    "opp": "@ NYG",
+    "wp": 54
+   },
+   "GB": {
+    "opp": "vs DAL",
+    "wp": 54
+   }
+  },
+  "7": {
+   "HOU": {
+    "opp": "vs NYG",
+    "wp": 78
+   },
+   "MIN": {
+    "opp": "vs IND",
+    "wp": 68
+   },
+   "NYJ": {
+    "opp": "vs MIA",
+    "wp": 60
+   },
+   "LAR": {
+    "opp": "@ LV",
+    "wp": 60
+   },
+   "DEN": {
+    "opp": "@ ARI",
+    "wp": 63
+   },
+   "DAL": {
+    "opp": "@ PHI",
+    "wp": 63
+   },
+   "CIN": {
+    "opp": "@ BAL",
+    "wp": 59
+   },
+   "DET": {
+    "opp": "vs GB",
+    "wp": 60
+   },
+   "CAR": {
+    "opp": "vs TB",
+    "wp": 59
+   },
+   "PIT": {
+    "opp": "vs NO (Paris)",
+    "wp": 59
+   },
+   "SEA": {
+    "opp": "vs KC",
+    "wp": 59
+   },
+   "SF": {
+    "opp": "@ ATL",
+    "wp": 57
+   },
+   "CHI": {
+    "opp": "vs NE",
+    "wp": 54
+   },
+   "CLE": {
+    "opp": "@ TEN",
+    "wp": 54
+   }
+  },
+  "8": {
+   "CIN": {
+    "opp": "vs TEN",
+    "wp": 78
+   },
+   "NE": {
+    "opp": "@ MIA",
+    "wp": 71
+   },
+   "JAX": {
+    "opp": "vs IND",
+    "wp": 71
+   },
+   "DAL": {
+    "opp": "vs ARI",
+    "wp": 68
+   },
+   "LAR": {
+    "opp": "vs LAC",
+    "wp": 68
+   },
+   "GB": {
+    "opp": "vs CAR",
+    "wp": 63
+   },
+   "PIT": {
+    "opp": "vs CLE",
+    "wp": 60
+   },
+   "BUF": {
+    "opp": "vs BAL",
+    "wp": 60
+   },
+   "WAS": {
+    "opp": "vs PHI",
+    "wp": 60
+   },
+   "DET": {
+    "opp": "vs MIN",
+    "wp": 59
+   },
+   "SEA": {
+    "opp": "vs CHI",
+    "wp": 59
+   },
+   "TB": {
+    "opp": "vs ATL",
+    "wp": 57
+   },
+   "KC": {
+    "opp": "@ DEN",
+    "wp": 54
+   },
+   "NYJ": {
+    "opp": "vs LV",
+    "wp": 54
+   }
+  },
+  "9": {
+   "SEA": {
+    "opp": "vs ARI",
+    "wp": 88
+   },
+   "KC": {
+    "opp": "vs NYJ",
+    "wp": 85
+   },
+   "SF": {
+    "opp": "vs LV",
+    "wp": 82
+   },
+   "DET": {
+    "opp": "?",
+    "wp": 76
+   },
+   "PHI": {
+    "opp": "vs NYG",
+    "wp": 73
+   }
+  },
+  "10": {
+   "LAR": {
+    "opp": "@ ARI",
+    "wp": 87
+   },
+   "BUF": {
+    "opp": "@ NYJ",
+    "wp": 77
+   },
+   "SEA": {
+    "opp": "?",
+    "wp": 77
+   }
+  },
+  "11": {
+   "KC": {
+    "opp": "vs ARI",
+    "wp": 88
+   },
+   "LAC": {
+    "opp": "vs NYJ",
+    "wp": 86
+   },
+   "BUF": {
+    "opp": "vs MIA",
+    "wp": 86
+   },
+   "DEN": {
+    "opp": "vs LV",
+    "wp": 79
+   },
+   "DAL": {
+    "opp": "vs TEN",
+    "wp": 75
+   }
+  },
+  "12": {
+   "JAX": {
+    "opp": "vs TEN",
+    "wp": 74
+   }
+  },
+  "13": {
+   "PHI": {
+    "opp": "@ ARI",
+    "wp": 82
+   },
+   "DEN": {
+    "opp": "vs MIA",
+    "wp": 82
+   }
+  },
+  "14": {
+   "DET": {
+    "opp": "vs TEN",
+    "wp": 75
+   },
+   "LAC": {
+    "opp": "@ LV",
+    "wp": 74
+   },
+   "PHI": {
+    "opp": "vs IND",
+    "wp": 73
+   }
+  },
+  "15": {
+   "GB": {
+    "opp": "vs MIA",
+    "wp": 82
+   }
+  },
+  "16": {
+   "BAL": {
+    "opp": "vs CLE",
+    "wp": 87
+   },
+   "LAC": {
+    "opp": "@ MIA",
+    "wp": 79
+   }
+  },
+  "17": {},
+  "18": {
+   "NE": {
+    "opp": "vs MIA",
+    "wp": 85
+   },
+   "BUF": {
+    "opp": "vs NYJ",
+    "wp": 85
+   },
+   "KC": {
+    "opp": "vs LV",
+    "wp": 83
+   },
+   "SF": {
+    "opp": "@ ARI",
+    "wp": 82
+   },
+   "CIN": {
+    "opp": "vs CLE",
+    "wp": 78
+   },
+   "HOU": {
+    "opp": "vs TEN",
+    "wp": 75
+   },
+   "LAR": {
+    "opp": "?",
+    "wp": 75
+   }
+  }
+ },
+ "futures": {
+  "label": "DraftKings, post-Week-9 (Nov 10, 2026) — top of board re-verified today: SF +540, BUF +600, JAGUARS +750 (jumped on trade-deadline adds), Bears +800, Packers +2100 (biggest riser), Patriots +2400 (faller); Bengals up, Vikings/Falcons down. Mid/bottom of board carried from the verified Nov 6 screenshots (Colts +80000, Chargers +100000, Ravens +12500 — still dead). Nov 6 board was — 49ers +550 favorite, Bills +600, Bears +780, Jaguars +900, Rams/Chiefs +1000. COLLAPSED: Colts +8000→+80000, Chargers +20000→+100000, Ravens +12500 (Lamar IR, Huntley done, rookie Fagnano starting). RISERS: Steelers +4000, Giants +6500, Bucs +7400, Packers +3000. Look-ahead spreads for BAL/IND/LAC re-cut to match",
+  "sb": {
+   "SF": "+540",
+   "BUF": "+600",
+   "CHI": "+800",
+   "JAX": "+750",
+   "LAR": "+1000",
+   "KC": "+1000",
+   "CIN": "+1400",
+   "SEA": "+1600",
+   "DEN": "+1600",
+   "NE": "+2400",
+   "DET": "+1900",
+   "MIN": "+2200",
+   "GB": "+2100",
+   "HOU": "+3500",
+   "PIT": "+4000",
+   "DAL": "+5000",
+   "NYG": "+6500",
+   "CAR": "+7000",
+   "TB": "+7400",
+   "ATL": "+8400",
+   "WAS": "+10000",
+   "BAL": "+12500",
+   "LV": "+15000",
+   "CLE": "+15000",
+   "NO": "+20000",
+   "ARI": "+70000",
+   "PHI": "+80000",
+   "IND": "+80000",
+   "TEN": "+100000",
+   "NYJ": "+100000",
+   "MIA": "+100000",
+   "LAC": "+100000"
+  }
+ },
+ "teams": {
+  "SF": {
+   "name": "49ers",
+   "conf": "NFC",
+   "div": "West",
+   "tag": "Spend early (Wk 2 or 3)"
+  },
+  "LAR": {
+   "name": "Rams",
+   "conf": "NFC",
+   "div": "West",
+   "tag": "Hold — best spots Wk 6+"
+  },
+  "KC": {
+   "name": "Chiefs",
+   "conf": "AFC",
+   "div": "West",
+   "tag": "Hold — Wk 3 only if needed"
+  },
+  "SEA": {
+   "name": "Seahawks",
+   "conf": "NFC",
+   "div": "West",
+   "tag": "Spend early (Wk 2)"
+  },
+  "BAL": {
+   "name": "Ravens",
+   "conf": "AFC",
+   "div": "North",
+   "tag": "Spend Wk 4; Wk 16 backup"
+  },
+  "LAC": {
+   "name": "Chargers",
+   "conf": "AFC",
+   "div": "West",
+   "tag": "Spend Wk 1 or 2"
+  },
+  "NE": {
+   "name": "Patriots",
+   "conf": "AFC",
+   "div": "East",
+   "tag": "Spend Wk 5"
+  },
+  "BUF": {
+   "name": "Bills",
+   "conf": "AFC",
+   "div": "East",
+   "tag": "Hold"
+  },
+  "DET": {
+   "name": "Lions",
+   "conf": "NFC",
+   "div": "North",
+   "tag": "Spend Wk 1/3/5"
+  },
+  "PHI": {
+   "name": "Eagles",
+   "conf": "NFC",
+   "div": "East",
+   "tag": "Limited Wk 1 use"
+  },
+  "DEN": {
+   "name": "Broncos",
+   "conf": "AFC",
+   "div": "West",
+   "tag": "Hold"
+  },
+  "DAL": {
+   "name": "Cowboys",
+   "conf": "NFC",
+   "div": "East",
+   "tag": "Hold — one-spot team"
+  },
+  "GB": {
+   "name": "Packers",
+   "conf": "NFC",
+   "div": "North",
+   "tag": "Hold — one-spot team"
+  },
+  "CHI": {
+   "name": "Bears",
+   "conf": "NFC",
+   "div": "North",
+   "tag": "Spend Wk 4"
+  },
+  "MIN": {
+   "name": "Vikings",
+   "conf": "NFC",
+   "div": "North",
+   "tag": "Spend Wk 4"
+  },
+  "TB": {
+   "name": "Buccaneers",
+   "conf": "NFC",
+   "div": "South",
+   "tag": "Spend Wk 2"
+  },
+  "NYG": {
+   "name": "Giants",
+   "conf": "NFC",
+   "div": "East",
+   "tag": "Spend Wk 3/4"
+  },
+  "JAX": {
+   "name": "Jaguars",
+   "conf": "AFC",
+   "div": "South",
+   "tag": "Spend Wk 1"
+  },
+  "PIT": {
+   "name": "Steelers",
+   "conf": "AFC",
+   "div": "North",
+   "tag": "Spend Wk 8"
+  },
+  "CIN": {
+   "name": "Bengals",
+   "conf": "AFC",
+   "div": "North",
+   "tag": "Low value"
+  },
+  "HOU": {
+   "name": "Texans",
+   "conf": "AFC",
+   "div": "South",
+   "tag": "Low value"
+  },
+  "ARI": {
+   "name": "Cardinals",
+   "conf": "NFC",
+   "div": "West",
+   "tag": "Throwaway"
+  },
+  "MIA": {
+   "name": "Dolphins",
+   "conf": "AFC",
+   "div": "East",
+   "tag": "Throwaway"
+  },
+  "NYJ": {
+   "name": "Jets",
+   "conf": "AFC",
+   "div": "East",
+   "tag": "Throwaway"
+  },
+  "CLE": {
+   "name": "Browns",
+   "conf": "AFC",
+   "div": "North",
+   "tag": "Throwaway"
+  },
+  "LV": {
+   "name": "Raiders",
+   "conf": "AFC",
+   "div": "West",
+   "tag": "Throwaway"
+  },
+  "NO": {
+   "name": "Saints",
+   "conf": "NFC",
+   "div": "South",
+   "tag": "Throwaway"
+  },
+  "TEN": {
+   "name": "Titans",
+   "conf": "AFC",
+   "div": "South",
+   "tag": "Throwaway"
+  },
+  "CAR": {
+   "name": "Panthers",
+   "conf": "NFC",
+   "div": "South",
+   "tag": "Throwaway"
+  },
+  "IND": {
+   "name": "Colts",
+   "conf": "AFC",
+   "div": "South",
+   "tag": "Throwaway"
+  },
+  "WAS": {
+   "name": "Commanders",
+   "conf": "NFC",
+   "div": "East",
+   "tag": "Throwaway"
+  },
+  "ATL": {
+   "name": "Falcons",
+   "conf": "NFC",
+   "div": "South",
+   "tag": "Throwaway"
+  }
+ },
+ "schedule": {
+  "1": [
+   {
+    "away": "NE",
+    "home": "SEA",
+    "t": "Wed Sep 9 · 8:20 PM ET",
+    "loc": "Lumen Field — Seattle, WA",
+    "sp": "SEA -3",
+    "ou": 44.5
+   },
+   {
+    "away": "SF",
+    "home": "LAR",
+    "t": "Thu Sep 10 · 8:35 PM ET",
+    "loc": "Melbourne Cricket Ground — Melbourne, VIC",
+    "sp": "LAR -3.5",
+    "ou": 48.5
+   },
+   {
+    "away": "TB",
+    "home": "CIN",
+    "t": "Sun Sep 13 · 1:00 PM ET",
+    "loc": "Paycor Stadium — Cincinnati, OH",
+    "sp": "CIN -3.5",
+    "ou": 50.5
+   },
+   {
+    "away": "NO",
+    "home": "DET",
+    "t": "Sun Sep 13 · 1:00 PM ET",
+    "loc": "Ford Field — Detroit, MI",
+    "sp": "DET -7",
+    "ou": 49.5
+   },
+   {
+    "away": "NYJ",
+    "home": "TEN",
+    "t": "Sun Sep 13 · 1:00 PM ET",
+    "loc": "Nissan Stadium — Nashville, TN",
+    "sp": "TEN -1.5",
+    "ou": 39.5
+   },
+   {
+    "away": "BAL",
+    "home": "IND",
+    "t": "Sun Sep 13 · 1:00 PM ET",
+    "loc": "Lucas Oil Stadium — Indianapolis, IN",
+    "sp": "BAL -3.5",
+    "ou": 47.5
+   },
+   {
+    "away": "ATL",
+    "home": "PIT",
+    "t": "Sun Sep 13 · 1:00 PM ET",
+    "loc": "Acrisure Stadium — Pittsburgh, PA",
+    "sp": "PIT -3.5",
+    "ou": 42.5
+   },
+   {
+    "away": "CHI",
+    "home": "CAR",
+    "t": "Sun Sep 13 · 1:00 PM ET",
+    "loc": "Bank of America Stadium — Charlotte, NC",
+    "sp": "CHI -3",
+    "ou": 46.5
+   },
+   {
+    "away": "CLE",
+    "home": "JAX",
+    "t": "Sun Sep 13 · 1:00 PM ET",
+    "loc": "EverBank Stadium — Jacksonville, FL",
+    "sp": "JAX -8.5",
+    "ou": 40.5
+   },
+   {
+    "away": "BUF",
+    "home": "HOU",
+    "t": "Sun Sep 13 · 1:00 PM ET",
+    "loc": "Reliant Stadium — Houston, TX",
+    "sp": "BUF -1.5",
+    "ou": 44.5
+   },
+   {
+    "away": "MIA",
+    "home": "LV",
+    "t": "Sun Sep 13 · 4:25 PM ET",
+    "loc": "Allegiant Stadium — Las Vegas, NV",
+    "sp": "LV -3.5",
+    "ou": 40.5
+   },
+   {
+    "away": "GB",
+    "home": "MIN",
+    "t": "Sun Sep 13 · 4:25 PM ET",
+    "loc": "U.S. Bank Stadium — Minneapolis, MN",
+    "sp": "MIN -1.5",
+    "ou": 46.5
+   },
+   {
+    "away": "WAS",
+    "home": "PHI",
+    "t": "Sun Sep 13 · 4:25 PM ET",
+    "loc": "Lincoln Financial Field — Philadelphia, PA",
+    "sp": "PHI -5.5",
+    "ou": 44.5
+   },
+   {
+    "away": "ARI",
+    "home": "LAC",
+    "t": "Sun Sep 13 · 4:25 PM ET",
+    "loc": "SoFi Stadium — Inglewood, CA",
+    "sp": "LAC -9.5",
+    "ou": 47.5
+   },
+   {
+    "away": "DAL",
+    "home": "NYG",
+    "t": "Sun Sep 13 · 8:20 PM ET",
+    "loc": "MetLife Stadium — East Rutherford, NJ",
+    "sp": "DAL -3",
+    "ou": 48.5
+   },
+   {
+    "away": "DEN",
+    "home": "KC",
+    "t": "Mon Sep 14 · 8:15 PM ET",
+    "loc": "Arrowhead Stadium — Kansas City, MO",
+    "sp": "KC -2.5",
+    "ou": 43.5
+   }
+  ],
+  "2": [
+   {
+    "away": "DET",
+    "home": "BUF",
+    "t": "Thu Sep 17 · 8:15 PM ET",
+    "loc": "Highmark Stadium — Orchard Park, NY",
+    "sp": "FINAL: BUF 41-31",
+    "ou": 54.5
+   },
+   {
+    "away": "CAR",
+    "home": "ATL",
+    "t": "Sun Sep 20 · 1:00 PM ET",
+    "loc": "Mercedes-Benz Stadium — Atlanta, GA",
+    "sp": "CAR -2.5",
+    "ou": 43.5
+   },
+   {
+    "away": "MIN",
+    "home": "CHI",
+    "t": "Sun Sep 20 · 1:00 PM ET",
+    "loc": "Soldier Field — Chicago, IL",
+    "sp": "CHI -4.5",
+    "ou": 48.5
+   },
+   {
+    "away": "PHI",
+    "home": "TEN",
+    "t": "Sun Sep 20 · 1:00 PM ET",
+    "loc": "Nissan Stadium — Nashville, TN",
+    "sp": "PHI -7",
+    "ou": 39.5
+   },
+   {
+    "away": "PIT",
+    "home": "NE",
+    "t": "Sun Sep 20 · 1:00 PM ET",
+    "loc": "Gillette Stadium — Foxborough, MA",
+    "sp": "NE -5.5",
+    "ou": 41.5
+   },
+   {
+    "away": "GB",
+    "home": "NYJ",
+    "t": "Sun Sep 20 · 1:00 PM ET",
+    "loc": "MetLife Stadium — East Rutherford, NJ",
+    "sp": "GB -3.5",
+    "ou": 44.5
+   },
+   {
+    "away": "CLE",
+    "home": "TB",
+    "t": "Sun Sep 20 · 1:00 PM ET",
+    "loc": "Raymond James Stadium — Tampa, FL",
+    "sp": "TB -8.5",
+    "ou": 41.5
+   },
+   {
+    "away": "NO",
+    "home": "BAL",
+    "t": "Sun Sep 20 · 1:00 PM ET",
+    "loc": "M&T Bank Stadium — Baltimore, MD",
+    "sp": "BAL -7.5",
+    "ou": 46.5
+   },
+   {
+    "away": "CIN",
+    "home": "HOU",
+    "t": "Sun Sep 20 · 1:00 PM ET",
+    "loc": "Reliant Stadium — Houston, TX",
+    "sp": "HOU -2.5",
+    "ou": 46.5
+   },
+   {
+    "away": "JAX",
+    "home": "DEN",
+    "t": "Sun Sep 20 · 4:05 PM ET",
+    "loc": "Empower Field at Mile High — Denver, CO",
+    "sp": "DEN -2.5",
+    "ou": 45.5
+   },
+   {
+    "away": "LV",
+    "home": "LAC",
+    "t": "Sun Sep 20 · 4:05 PM ET",
+    "loc": "SoFi Stadium — Inglewood, CA",
+    "sp": "LAC -6.5",
+    "ou": 43.5
+   },
+   {
+    "away": "WAS",
+    "home": "DAL",
+    "t": "Sun Sep 20 · 4:25 PM ET",
+    "loc": "AT&T Stadium — Arlington, TX",
+    "sp": "DAL -3.5",
+    "ou": 50.5
+   },
+   {
+    "away": "SEA",
+    "home": "ARI",
+    "t": "Sun Sep 20 · 4:25 PM ET",
+    "loc": "State Farm Stadium — Glendale, AZ",
+    "sp": "SEA -3.5",
+    "ou": 40.5
+   },
+   {
+    "away": "MIA",
+    "home": "SF",
+    "t": "Sun Sep 20 · 4:25 PM ET",
+    "loc": "Levi's Stadium — Santa Clara, CA",
+    "sp": "SF -12.5",
+    "ou": 44.5
+   },
+   {
+    "away": "IND",
+    "home": "KC",
+    "t": "Sun Sep 20 · 8:20 PM ET",
+    "loc": "Arrowhead Stadium — Kansas City, MO",
+    "sp": "KC -6.5",
+    "ou": 46.5
+   },
+   {
+    "away": "NYG",
+    "home": "LAR",
+    "t": "Mon Sep 21 · 8:15 PM ET",
+    "loc": "SoFi Stadium — Inglewood, CA",
+    "sp": "LAR -7",
+    "ou": 48.5
+   }
+  ],
+  "3": [
+   {
+    "away": "ATL",
+    "home": "GB",
+    "t": "Thu Sep 24 · 8:15 PM ET",
+    "loc": "Lambeau Field — Green Bay, WI",
+    "sp": "FINAL: ATL 35-14",
+    "ou": 42.5
+   },
+   {
+    "away": "LAC",
+    "home": "BUF",
+    "t": "Sun Sep 27 · 1:00 PM ET",
+    "loc": "Highmark Stadium — Orchard Park, NY",
+    "sp": "FINAL: BUF 24-16",
+    "ou": 50.5
+   },
+   {
+    "away": "CAR",
+    "home": "CLE",
+    "t": "Sun Sep 27 · 1:00 PM ET",
+    "loc": "Huntington Bank Field — Cleveland, OH",
+    "sp": "FINAL: CLE 21-18",
+    "ou": 42.5
+   },
+   {
+    "away": "NYJ",
+    "home": "DET",
+    "t": "Sun Sep 27 · 1:00 PM ET",
+    "loc": "Ford Field — Detroit, MI",
+    "sp": "FINAL: DET 31-24",
+    "ou": 48.5
+   },
+   {
+    "away": "HOU",
+    "home": "IND",
+    "t": "Sun Sep 27 · 1:00 PM ET",
+    "loc": "Lucas Oil Stadium — Indianapolis, IN",
+    "sp": "FINAL: IND 19-17",
+    "ou": 42.5
+   },
+   {
+    "away": "KC",
+    "home": "MIA",
+    "t": "Sun Sep 27 · 1:00 PM ET",
+    "loc": "Hard Rock Stadium — Miami Gardens, FL",
+    "sp": "FINAL: KC 24-10",
+    "ou": 45.5
+   },
+   {
+    "away": "TEN",
+    "home": "NYG",
+    "t": "Sun Sep 27 · 1:00 PM ET",
+    "loc": "MetLife Stadium — East Rutherford, NJ",
+    "sp": "FINAL: NYG 12-7",
+    "ou": 37.5
+   },
+   {
+    "away": "CIN",
+    "home": "PIT",
+    "t": "Sun Sep 27 · 1:00 PM ET",
+    "loc": "Acrisure Stadium — Pittsburgh, PA",
+    "sp": "FINAL: PIT 30-27",
+    "ou": 42.5
+   },
+   {
+    "away": "SEA",
+    "home": "WAS",
+    "t": "Sun Sep 27 · 1:00 PM ET",
+    "loc": "Northwest Stadium — Landover, MD",
+    "sp": "FINAL: WAS 33-31",
+    "ou": 39.5
+   },
+   {
+    "away": "NE",
+    "home": "JAX",
+    "t": "Sun Sep 27 · 1:00 PM ET",
+    "loc": "EverBank Stadium — Jacksonville, FL",
+    "sp": "FINAL: JAX 35-6",
+    "ou": 45.5
+   },
+   {
+    "away": "ARI",
+    "home": "SF",
+    "t": "Sun Sep 27 · 4:05 PM ET",
+    "loc": "Levi's Stadium — Santa Clara, CA",
+    "sp": "FINAL: SF 36-30",
+    "ou": 47.5
+   },
+   {
+    "away": "MIN",
+    "home": "TB",
+    "t": "Sun Sep 27 · 4:05 PM ET",
+    "loc": "Raymond James Stadium — Tampa, FL",
+    "sp": "FINAL: MIN 23-16",
+    "ou": 42.5
+   },
+   {
+    "away": "BAL",
+    "home": "DAL",
+    "t": "Sun Sep 27 · 4:25 PM ET",
+    "loc": "Maracanã Stadium — Rio De Janeiro, Brazil",
+    "sp": "FINAL: BAL 34-31",
+    "ou": 52.5
+   },
+   {
+    "away": "LV",
+    "home": "NO",
+    "t": "Sun Sep 27 · 4:25 PM ET",
+    "loc": "Caesars Superdome — New Orleans, LA",
+    "sp": "FINAL: LV 35-27",
+    "ou": 43.5
+   },
+   {
+    "away": "LAR",
+    "home": "DEN",
+    "t": "Sun Sep 27 · 8:20 PM ET",
+    "loc": "Empower Field at Mile High — Denver, CO",
+    "sp": "FINAL: DEN 30-26",
+    "ou": 44.5
+   },
+   {
+    "away": "PHI",
+    "home": "CHI",
+    "t": "Mon Sep 28 · 8:15 PM ET",
+    "loc": "Soldier Field — Chicago, IL",
+    "sp": "FINAL: CHI 27-7",
+    "ou": 41.5
+   }
+  ],
+  "4": [
+   {
+    "away": "PIT",
+    "home": "CLE",
+    "t": "Thu Oct 1 · 8:15 PM ET",
+    "loc": "Huntington Bank Field — Cleveland, OH",
+    "sp": "FINAL: CLE 27-24",
+    "ou": 38.5
+   },
+   {
+    "away": "IND",
+    "home": "WAS",
+    "t": "Sun Oct 4 · 9:30 AM ET",
+    "loc": "Tottenham Hotspur Stadium — London, England",
+    "sp": "FINAL: IND 30-13",
+    "ou": 47.5
+   },
+   {
+    "away": "NE",
+    "home": "BUF",
+    "t": "Sun Oct 4 · 1:00 PM ET",
+    "loc": "Highmark Stadium — Orchard Park, NY",
+    "sp": "FINAL: NE 29-26",
+    "ou": 48.5
+   },
+   {
+    "away": "NYJ",
+    "home": "CHI",
+    "t": "Sun Oct 4 · 1:00 PM ET",
+    "loc": "Soldier Field — Chicago, IL",
+    "sp": "FINAL: CHI 23-12",
+    "ou": 42.5
+   },
+   {
+    "away": "JAX",
+    "home": "CIN",
+    "t": "Sun Oct 4 · 1:00 PM ET",
+    "loc": "Paycor Stadium — Cincinnati, OH",
+    "sp": "FINAL: JAX 22-17",
+    "ou": 51.5
+   },
+   {
+    "away": "ARI",
+    "home": "NYG",
+    "t": "Sun Oct 4 · 1:00 PM ET",
+    "loc": "MetLife Stadium — East Rutherford, NJ",
+    "sp": "FINAL: NYG 36-24",
+    "ou": 44.5
+   },
+   {
+    "away": "LAR",
+    "home": "PHI",
+    "t": "Sun Oct 4 · 1:00 PM ET",
+    "loc": "Lincoln Financial Field — Philadelphia, PA",
+    "sp": "FINAL: LAR 24-20",
+    "ou": 44.5
+   },
+   {
+    "away": "GB",
+    "home": "TB",
+    "t": "Sun Oct 4 · 1:00 PM ET",
+    "loc": "Raymond James Stadium — Tampa, FL",
+    "sp": "FINAL: GB 17-14",
+    "ou": 39.5
+   },
+   {
+    "away": "TEN",
+    "home": "BAL",
+    "t": "Sun Oct 4 · 1:00 PM ET",
+    "loc": "M&T Bank Stadium — Baltimore, MD",
+    "sp": "FINAL: BAL 24-18",
+    "ou": 43.5
+   },
+   {
+    "away": "DAL",
+    "home": "HOU",
+    "t": "Sun Oct 4 · 1:00 PM ET",
+    "loc": "Reliant Stadium — Houston, TX",
+    "sp": "FINAL: DAL 34-30",
+    "ou": 47.5
+   },
+   {
+    "away": "MIA",
+    "home": "MIN",
+    "t": "Sun Oct 4 · 4:05 PM ET",
+    "loc": "U.S. Bank Stadium — Minneapolis, MN",
+    "sp": "FINAL: MIN 15-10",
+    "ou": 38.5
+   },
+   {
+    "away": "KC",
+    "home": "LV",
+    "t": "Sun Oct 4 · 4:25 PM ET",
+    "loc": "Allegiant Stadium — Las Vegas, NV",
+    "sp": "FINAL: KC 30-27",
+    "ou": 47.5
+   },
+   {
+    "away": "DEN",
+    "home": "SF",
+    "t": "Sun Oct 4 · 4:25 PM ET",
+    "loc": "Levi's Stadium — Santa Clara, CA",
+    "sp": "FINAL: SF 24-14",
+    "ou": 46.5
+   },
+   {
+    "away": "LAC",
+    "home": "SEA",
+    "t": "Sun Oct 4 · 4:25 PM ET",
+    "loc": "Lumen Field — Seattle, WA",
+    "sp": "FINAL: SEA 30-23",
+    "ou": 42.5
+   },
+   {
+    "away": "DET",
+    "home": "CAR",
+    "t": "Sun Oct 4 · 8:20 PM ET",
+    "loc": "Bank of America Stadium — Charlotte, NC",
+    "sp": "FINAL: CAR 32-26",
+    "ou": 50.5
+   },
+   {
+    "away": "ATL",
+    "home": "NO",
+    "t": "Mon Oct 5 · 8:15 PM ET",
+    "loc": "Caesars Superdome — New Orleans, LA",
+    "sp": "FINAL: ATL 45-24",
+    "ou": 48.5
+   }
+  ],
+  "5": [
+   {
+    "away": "TB",
+    "home": "DAL",
+    "t": "Thu Oct 8 · 8:15 PM ET",
+    "loc": "AT&T Stadium — Arlington, TX",
+    "sp": "FINAL: TB 24-16",
+    "ou": 47.5
+   },
+   {
+    "away": "PHI",
+    "home": "JAX",
+    "t": "Sun Oct 11 · 9:30 AM ET",
+    "loc": "Tottenham Hotspur Stadium — London, England",
+    "sp": "FINAL: JAX 19-17",
+    "ou": 42.5
+   },
+   {
+    "away": "HOU",
+    "home": "TEN",
+    "t": "Sun Oct 11 · 1:00 PM ET",
+    "loc": "Nissan Stadium — Nashville, TN",
+    "sp": "FINAL: HOU 26-3",
+    "ou": 39.5
+   },
+   {
+    "away": "CIN",
+    "home": "MIA",
+    "t": "Sun Oct 11 · 1:00 PM ET",
+    "loc": "Hard Rock Stadium — Miami Gardens, FL",
+    "sp": "FINAL: CIN 31-24",
+    "ou": 42.5
+   },
+   {
+    "away": "LV",
+    "home": "NE",
+    "t": "Sun Oct 11 · 1:00 PM ET",
+    "loc": "Gillette Stadium — Foxborough, MA",
+    "sp": "FINAL: NE 45-17",
+    "ou": 45.5
+   },
+   {
+    "away": "MIN",
+    "home": "NO",
+    "t": "Sun Oct 11 · 1:00 PM ET",
+    "loc": "Caesars Superdome — New Orleans, LA",
+    "sp": "FINAL: MIN 23-13",
+    "ou": 41.5
+   },
+   {
+    "away": "CLE",
+    "home": "NYJ",
+    "t": "Sun Oct 11 · 1:00 PM ET",
+    "loc": "MetLife Stadium — East Rutherford, NJ",
+    "sp": "FINAL: NYJ 17-12",
+    "ou": 39.5
+   },
+   {
+    "away": "IND",
+    "home": "PIT",
+    "t": "Sun Oct 11 · 1:00 PM ET",
+    "loc": "Acrisure Stadium — Pittsburgh, PA",
+    "sp": "FINAL: PIT 34-22",
+    "ou": 44.5
+   },
+   {
+    "away": "NYG",
+    "home": "WAS",
+    "t": "Sun Oct 11 · 1:00 PM ET",
+    "loc": "Northwest Stadium — Landover, MD",
+    "sp": "FINAL: TIE 27-27 (OT)",
+    "ou": 43.5
+   },
+   {
+    "away": "DEN",
+    "home": "LAC",
+    "t": "Sun Oct 11 · 4:05 PM ET",
+    "loc": "SoFi Stadium — Inglewood, CA",
+    "sp": "FINAL: DEN 23-17",
+    "ou": 42.5
+   },
+   {
+    "away": "CHI",
+    "home": "GB",
+    "t": "Sun Oct 11 · 4:25 PM ET",
+    "loc": "Lambeau Field — Green Bay, WI",
+    "sp": "FINAL: GB 31-7",
+    "ou": 45.5
+   },
+   {
+    "away": "DET",
+    "home": "ARI",
+    "t": "Sun Oct 11 · 4:25 PM ET",
+    "loc": "State Farm Stadium — Glendale, AZ",
+    "sp": "FINAL: DET 45-21",
+    "ou": 54.5
+   },
+   {
+    "away": "SF",
+    "home": "SEA",
+    "t": "Sun Oct 11 · 4:25 PM ET",
+    "loc": "Lumen Field — Seattle, WA",
+    "sp": "FINAL: SF 32-29",
+    "ou": 47.5
+   },
+   {
+    "away": "BAL",
+    "home": "ATL",
+    "t": "Sun Oct 11 · 8:20 PM ET",
+    "loc": "Mercedes-Benz Stadium — Atlanta, GA",
+    "sp": "FINAL: BAL 30-23 (OT)",
+    "ou": 44.5
+   },
+   {
+    "away": "BUF",
+    "home": "LAR",
+    "t": "Mon Oct 12 · 8:15 PM ET",
+    "loc": "SoFi Stadium — Inglewood, CA",
+    "sp": "FINAL: BUF 37-34 (OT)",
+    "ou": 53.5
+   }
+  ],
+  "6": [
+   {
+    "away": "SEA",
+    "home": "DEN",
+    "t": "Thu Oct 15 · 8:15 PM ET",
+    "loc": "Empower Field at Mile High — Denver, CO",
+    "sp": "FINAL: DEN 17-14 (OT)",
+    "ou": 40.5
+   },
+   {
+    "away": "HOU",
+    "home": "JAX",
+    "t": "Sun Oct 18 · 9:30 AM ET",
+    "loc": "Wembley Stadium — London, England",
+    "sp": "FINAL: HOU 34-31",
+    "ou": 42.5
+   },
+   {
+    "away": "CHI",
+    "home": "ATL",
+    "t": "Sun Oct 18 · 1:00 PM ET",
+    "loc": "Mercedes-Benz Stadium — Atlanta, GA",
+    "sp": "FINAL: CHI 31-23",
+    "ou": 52.5
+   },
+   {
+    "away": "BAL",
+    "home": "CLE",
+    "t": "Sun Oct 18 · 1:00 PM ET",
+    "loc": "Huntington Bank Field — Cleveland, OH",
+    "sp": "FINAL: CLE 13-10",
+    "ou": 39.5
+   },
+   {
+    "away": "TEN",
+    "home": "IND",
+    "t": "Sun Oct 18 · 1:00 PM ET",
+    "loc": "Lucas Oil Stadium — Indianapolis, IN",
+    "sp": "FINAL: TEN 26-20",
+    "ou": 44.5
+   },
+   {
+    "away": "NYJ",
+    "home": "NE",
+    "t": "Sun Oct 18 · 1:00 PM ET",
+    "loc": "Gillette Stadium — Foxborough, MA",
+    "sp": "FINAL: NE 26-19",
+    "ou": 43.5
+   },
+   {
+    "away": "NO",
+    "home": "NYG",
+    "t": "Sun Oct 18 · 1:00 PM ET",
+    "loc": "MetLife Stadium — East Rutherford, NJ",
+    "sp": "FINAL: NO 34-27",
+    "ou": 46.5
+   },
+   {
+    "away": "CAR",
+    "home": "PHI",
+    "t": "Sun Oct 18 · 1:00 PM ET",
+    "loc": "Lincoln Financial Field — Philadelphia, PA",
+    "sp": "FINAL: CAR 25-14",
+    "ou": 39.5
+   },
+   {
+    "away": "PIT",
+    "home": "TB",
+    "t": "Sun Oct 18 · 1:00 PM ET",
+    "loc": "Raymond James Stadium — Tampa, FL",
+    "sp": "FINAL: PIT 26-19 (OT)",
+    "ou": 38.5
+   },
+   {
+    "away": "ARI",
+    "home": "LAR",
+    "t": "Sun Oct 18 · 4:05 PM ET",
+    "loc": "SoFi Stadium — Inglewood, CA",
+    "sp": "FINAL: ARI 18-16",
+    "ou": 51.5
+   },
+   {
+    "away": "LAC",
+    "home": "KC",
+    "t": "Sun Oct 18 · 4:25 PM ET",
+    "loc": "Arrowhead Stadium — Kansas City, MO",
+    "sp": "FINAL: KC 22-6",
+    "ou": 41.5
+   },
+   {
+    "away": "BUF",
+    "home": "LV",
+    "t": "Sun Oct 18 · 4:25 PM ET",
+    "loc": "Allegiant Stadium — Las Vegas, NV",
+    "sp": "FINAL: BUF 33-30",
+    "ou": 53.5
+   },
+   {
+    "away": "DAL",
+    "home": "GB",
+    "t": "Sun Oct 18 · 8:20 PM ET",
+    "loc": "Lambeau Field — Green Bay, WI",
+    "sp": "FINAL: GB 23-13",
+    "ou": 53.5
+   },
+   {
+    "away": "WAS",
+    "home": "SF",
+    "t": "Mon Oct 19 · 8:15 PM ET",
+    "loc": "Levi's Stadium — Santa Clara, CA",
+    "sp": "SF -7.5",
+    "ou": 52.5
+   }
+  ],
+  "7": [
+   {
+    "away": "NE",
+    "home": "CHI",
+    "t": "Thu Oct 22 · 8:15 PM ET",
+    "loc": "Soldier Field — Chicago, IL",
+    "sp": "FINAL: CHI 30-24",
+    "ou": 48.5
+   },
+   {
+    "away": "PIT",
+    "home": "NO",
+    "t": "Sun Oct 25 · 9:30 AM ET",
+    "loc": "Stade de France — Saint-Denis, France",
+    "sp": "FINAL: PIT 16-10",
+    "ou": 43.5
+   },
+   {
+    "away": "SF",
+    "home": "ATL",
+    "t": "Sun Oct 25 · 1:00 PM ET",
+    "loc": "Mercedes-Benz Stadium — Atlanta, GA",
+    "sp": "FINAL: ATL 29-20",
+    "ou": 50.5
+   },
+   {
+    "away": "CLE",
+    "home": "TEN",
+    "t": "Sun Oct 25 · 1:00 PM ET",
+    "loc": "Nissan Stadium — Nashville, TN",
+    "sp": "FINAL: CLE 27-24",
+    "ou": 36.5
+   },
+   {
+    "away": "IND",
+    "home": "MIN",
+    "t": "Sun Oct 25 · 1:00 PM ET",
+    "loc": "U.S. Bank Stadium — Minneapolis, MN",
+    "sp": "FINAL: MIN 16-10",
+    "ou": 41.5
+   },
+   {
+    "away": "MIA",
+    "home": "NYJ",
+    "t": "Sun Oct 25 · 1:00 PM ET",
+    "loc": "MetLife Stadium — East Rutherford, NJ",
+    "sp": "FINAL: MIA 28-25",
+    "ou": 39.5
+   },
+   {
+    "away": "TB",
+    "home": "CAR",
+    "t": "Sun Oct 25 · 1:00 PM ET",
+    "loc": "Bank of America Stadium — Charlotte, NC",
+    "sp": "FINAL: TB 43-13",
+    "ou": 44.5
+   },
+   {
+    "away": "CIN",
+    "home": "BAL",
+    "t": "Sun Oct 25 · 1:00 PM ET",
+    "loc": "M&T Bank Stadium — Baltimore, MD",
+    "sp": "FINAL: CIN 35-13",
+    "ou": 46.5
+   },
+   {
+    "away": "NYG",
+    "home": "HOU",
+    "t": "Sun Oct 25 · 1:00 PM ET",
+    "loc": "Reliant Stadium — Houston, TX",
+    "sp": "FINAL: NYG 27-21 (OT)",
+    "ou": 42.5
+   },
+   {
+    "away": "DEN",
+    "home": "ARI",
+    "t": "Sun Oct 25 · 4:05 PM ET",
+    "loc": "State Farm Stadium — Glendale, AZ",
+    "sp": "FINAL: DEN 30-16",
+    "ou": 42.5
+   },
+   {
+    "away": "GB",
+    "home": "DET",
+    "t": "Sun Oct 25 · 4:25 PM ET",
+    "loc": "Ford Field — Detroit, MI",
+    "sp": "FINAL: DET 20-17",
+    "ou": 55.5
+   },
+   {
+    "away": "LAR",
+    "home": "LV",
+    "t": "Sun Oct 25 · 4:25 PM ET",
+    "loc": "Allegiant Stadium — Las Vegas, NV",
+    "sp": "FINAL: LAR 35-21",
+    "ou": 48.5
+   },
+   {
+    "away": "KC",
+    "home": "SEA",
+    "t": "Sun Oct 25 · 8:20 PM ET",
+    "loc": "Lumen Field — Seattle, WA",
+    "sp": "FINAL: SEA 20-3",
+    "ou": 42.5
+   },
+   {
+    "away": "DAL",
+    "home": "PHI",
+    "t": "Mon Oct 26 · 8:15 PM ET",
+    "loc": "Lincoln Financial Field — Philadelphia, PA",
+    "sp": "FINAL: DAL 38-21",
+    "ou": 43.5
+   }
+  ],
+  "8": [
+   {
+    "away": "CAR",
+    "home": "GB",
+    "t": "Thu Oct 29 · 8:15 PM ET",
+    "loc": "Lambeau Field — Green Bay, WI",
+    "sp": "GB -4.5",
+    "ou": 45.5
+   },
+   {
+    "away": "BAL",
+    "home": "BUF",
+    "t": "Sun Nov 1 · 1:00 PM ET",
+    "loc": "Highmark Stadium — Orchard Park, NY",
+    "sp": "BUF -3.5",
+    "ou": 51.5
+   },
+   {
+    "away": "TEN",
+    "home": "CIN",
+    "t": "Sun Nov 1 · 1:00 PM ET",
+    "loc": "Paycor Stadium — Cincinnati, OH",
+    "sp": "FINAL: CIN 43-36 (OT)",
+    "ou": 49.5
+   },
+   {
+    "away": "ARI",
+    "home": "DAL",
+    "t": "Sun Nov 1 · 1:00 PM ET",
+    "loc": "AT&T Stadium — Arlington, TX",
+    "sp": "DAL -6.5",
+    "ou": 47.5
+   },
+   {
+    "away": "MIN",
+    "home": "DET",
+    "t": "Sun Nov 1 · 1:00 PM ET",
+    "loc": "Ford Field — Detroit, MI",
+    "sp": "DET -3",
+    "ou": 47.5
+   },
+   {
+    "away": "LV",
+    "home": "NYJ",
+    "t": "Sun Nov 1 · 1:00 PM ET",
+    "loc": "MetLife Stadium — East Rutherford, NJ",
+    "sp": "NYJ -1.5",
+    "ou": 40.5
+   },
+   {
+    "away": "CLE",
+    "home": "PIT",
+    "t": "Sun Nov 1 · 1:00 PM ET",
+    "loc": "Acrisure Stadium — Pittsburgh, PA",
+    "sp": "PIT -3.5",
+    "ou": 39.5
+   },
+   {
+    "away": "ATL",
+    "home": "TB",
+    "t": "Sun Nov 1 · 1:00 PM ET",
+    "loc": "Raymond James Stadium — Tampa, FL",
+    "sp": "TB -2.5",
+    "ou": 46.5
+   },
+   {
+    "away": "IND",
+    "home": "JAX",
+    "t": "Sun Nov 1 · 1:00 PM ET",
+    "loc": "EverBank Stadium — Jacksonville, FL",
+    "sp": "FINAL: JAX 42-7",
+    "ou": 49.5
+   },
+   {
+    "away": "LAC",
+    "home": "LAR",
+    "t": "Sun Nov 1 · 4:05 PM ET",
+    "loc": "SoFi Stadium — Inglewood, CA",
+    "sp": "LAR -6.5",
+    "ou": 48.5
+   },
+   {
+    "away": "KC",
+    "home": "DEN",
+    "t": "Sun Nov 1 · 4:25 PM ET",
+    "loc": "Empower Field at Mile High — Denver, CO",
+    "sp": "KC -1.5",
+    "ou": 43.5
+   },
+   {
+    "away": "NE",
+    "home": "MIA",
+    "t": "Sun Nov 1 · 4:25 PM ET",
+    "loc": "Hard Rock Stadium — Miami Gardens, FL",
+    "sp": "NE -7.5",
+    "ou": 45.5
+   },
+   {
+    "away": "PHI",
+    "home": "WAS",
+    "t": "Sun Nov 1 · 8:20 PM ET",
+    "loc": "Northwest Stadium — Landover, MD",
+    "sp": "WAS -3.5",
+    "ou": 46.5
+   },
+   {
+    "away": "CHI",
+    "home": "SEA",
+    "t": "Mon Nov 2 · 8:15 PM ET",
+    "loc": "Lumen Field — Seattle, WA",
+    "sp": "SEA -3",
+    "ou": 47.5
+   }
+  ],
+  "9": [
+   {
+    "away": "JAX",
+    "home": "BAL",
+    "t": "Thu Nov 5 · 8:15 PM ET",
+    "loc": "M&T Bank Stadium — Baltimore, MD",
+    "sp": "BAL -4.5",
+    "ou": 49.5
+   },
+   {
+    "away": "CIN",
+    "home": "ATL",
+    "t": "Sun Nov 8 · 9:30 AM ET",
+    "loc": "Santiago Bernabéu — Madrid, Spain",
+    "sp": "CIN -5.5",
+    "ou": 49.5
+   },
+   {
+    "away": "DAL",
+    "home": "IND",
+    "t": "Sun Nov 8 · 1:00 PM ET",
+    "loc": "Lucas Oil Stadium — Indianapolis, IN",
+    "sp": "DAL -1.5",
+    "ou": 52.5
+   },
+   {
+    "away": "NYJ",
+    "home": "KC",
+    "t": "Sun Nov 8 · 1:00 PM ET",
+    "loc": "Arrowhead Stadium — Kansas City, MO",
+    "sp": "KC -9.5",
+    "ou": 41.5
+   },
+   {
+    "away": "DET",
+    "home": "MIA",
+    "t": "Sun Nov 8 · 1:00 PM ET",
+    "loc": "Hard Rock Stadium — Miami Gardens, FL",
+    "sp": "DET -6.5",
+    "ou": 47.5
+   },
+   {
+    "away": "CLE",
+    "home": "NO",
+    "t": "Sun Nov 8 · 1:00 PM ET",
+    "loc": "Caesars Superdome — New Orleans, LA",
+    "sp": "NO -3.5",
+    "ou": 41.5
+   },
+   {
+    "away": "NYG",
+    "home": "PHI",
+    "t": "Sun Nov 8 · 1:00 PM ET",
+    "loc": "Lincoln Financial Field — Philadelphia, PA",
+    "sp": "PHI -5.5",
+    "ou": 44.5
+   },
+   {
+    "away": "LAR",
+    "home": "WAS",
+    "t": "Sun Nov 8 · 1:00 PM ET",
+    "loc": "Northwest Stadium — Landover, MD",
+    "sp": "LAR -5.5",
+    "ou": 50.5
+   },
+   {
+    "away": "DEN",
+    "home": "CAR",
+    "t": "Sun Nov 8 · 1:00 PM ET",
+    "loc": "Bank of America Stadium — Charlotte, NC",
+    "sp": "DEN -3",
+    "ou": 42.5
+   },
+   {
+    "away": "HOU",
+    "home": "LAC",
+    "t": "Sun Nov 8 · 4:05 PM ET",
+    "loc": "SoFi Stadium — Inglewood, CA",
+    "sp": "LAC -2.5",
+    "ou": 43.5
+   },
+   {
+    "away": "LV",
+    "home": "SF",
+    "t": "Sun Nov 8 · 4:05 PM ET",
+    "loc": "Levi's Stadium — Santa Clara, CA",
+    "sp": "SF -8.5",
+    "ou": 46.5
+   },
+   {
+    "away": "GB",
+    "home": "NE",
+    "t": "Sun Nov 8 · 4:25 PM ET",
+    "loc": "Gillette Stadium — Foxborough, MA",
+    "sp": "NE -1.5",
+    "ou": 46.5
+   },
+   {
+    "away": "ARI",
+    "home": "SEA",
+    "t": "Sun Nov 8 · 4:25 PM ET",
+    "loc": "Lumen Field — Seattle, WA",
+    "sp": "SEA -13.5",
+    "ou": 45.5
+   },
+   {
+    "away": "TB",
+    "home": "CHI",
+    "t": "Sun Nov 8 · 8:20 PM ET",
+    "loc": "Soldier Field — Chicago, IL",
+    "sp": "CHI -3.5",
+    "ou": 48.5
+   },
+   {
+    "away": "BUF",
+    "home": "MIN",
+    "t": "Mon Nov 9 · 8:15 PM ET",
+    "loc": "U.S. Bank Stadium — Minneapolis, MN",
+    "sp": "BUF -3",
+    "ou": 48.5
+   }
+  ],
+  "10": [
+   {
+    "away": "WAS",
+    "home": "NYG",
+    "t": "Thu Nov 12 · 8:15 PM ET",
+    "loc": "MetLife Stadium — East Rutherford, NJ",
+    "sp": "NYG -2.5",
+    "ou": 47.5
+   },
+   {
+    "away": "NE",
+    "home": "DET",
+    "t": "Sun Nov 15 · 9:30 AM ET",
+    "loc": "FC Bayern Munich Stadium — Munich, Germany",
+    "sp": "DET -2.5",
+    "ou": 48.5
+   },
+   {
+    "away": "KC",
+    "home": "ATL",
+    "t": "Sun Nov 15 · 1:00 PM ET",
+    "loc": "Mercedes-Benz Stadium — Atlanta, GA",
+    "sp": "KC -3.5",
+    "ou": 45.5
+   },
+   {
+    "away": "HOU",
+    "home": "CLE",
+    "t": "Sun Nov 15 · 1:00 PM ET",
+    "loc": "Huntington Bank Field — Cleveland, OH",
+    "sp": "HOU -4.5",
+    "ou": 38.5
+   },
+   {
+    "away": "MIN",
+    "home": "GB",
+    "t": "Sun Nov 15 · 1:00 PM ET",
+    "loc": "Lambeau Field — Green Bay, WI",
+    "sp": "GB -4.5",
+    "ou": 45.5
+   },
+   {
+    "away": "JAX",
+    "home": "TEN",
+    "t": "Sun Nov 15 · 1:00 PM ET",
+    "loc": "Nissan Stadium — Nashville, TN",
+    "sp": "JAX -10.5",
+    "ou": 45.5
+   },
+   {
+    "away": "MIA",
+    "home": "IND",
+    "t": "Sun Nov 15 · 1:00 PM ET",
+    "loc": "Lucas Oil Stadium — Indianapolis, IN",
+    "sp": "IND -2.5",
+    "ou": 47.5
+   },
+   {
+    "away": "CAR",
+    "home": "NO",
+    "t": "Sun Nov 15 · 1:00 PM ET",
+    "loc": "Caesars Superdome — New Orleans, LA",
+    "sp": "NO -1.5",
+    "ou": 43.5
+   },
+   {
+    "away": "BUF",
+    "home": "NYJ",
+    "t": "Sun Nov 15 · 1:00 PM ET",
+    "loc": "MetLife Stadium — East Rutherford, NJ",
+    "sp": "BUF -7.5",
+    "ou": 46.5
+   },
+   {
+    "away": "SEA",
+    "home": "LV",
+    "t": "Sun Nov 15 · 4:05 PM ET",
+    "loc": "Allegiant Stadium — Las Vegas, NV",
+    "sp": "SEA -3.5",
+    "ou": 43.5
+   },
+   {
+    "away": "LAR",
+    "home": "ARI",
+    "t": "Sun Nov 15 · 4:05 PM ET",
+    "loc": "State Farm Stadium — Glendale, AZ",
+    "sp": "LAR -9.5",
+    "ou": 47.5
+   },
+   {
+    "away": "SF",
+    "home": "DAL",
+    "t": "Sun Nov 15 · 4:25 PM ET",
+    "loc": "AT&T Stadium — Arlington, TX",
+    "sp": "SF -3.5",
+    "ou": 52.5
+   },
+   {
+    "away": "PIT",
+    "home": "CIN",
+    "t": "Sun Nov 15 · 8:20 PM ET",
+    "loc": "Paycor Stadium — Cincinnati, OH",
+    "sp": "CIN -3.5",
+    "ou": 47.5
+   },
+   {
+    "away": "LAC",
+    "home": "BAL",
+    "t": "Mon Nov 16 · 8:15 PM ET",
+    "loc": "M&T Bank Stadium — Baltimore, MD",
+    "sp": "BAL -4.5",
+    "ou": 47.5
+   }
+  ],
+  "11": [
+   {
+    "away": "IND",
+    "home": "HOU",
+    "t": "Thu Nov 19 · 8:15 PM ET",
+    "loc": "Reliant Stadium — Houston, TX",
+    "sp": "HOU -5.5",
+    "ou": 45.5
+   },
+   {
+    "away": "MIA",
+    "home": "BUF",
+    "t": "Sun Nov 22 · 1:00 PM ET",
+    "loc": "Highmark Stadium — Orchard Park, NY",
+    "sp": "BUF -11.5",
+    "ou": 47.5
+   },
+   {
+    "away": "NO",
+    "home": "CHI",
+    "t": "Sun Nov 22 · 1:00 PM ET",
+    "loc": "Soldier Field — Chicago, IL",
+    "sp": "CHI -7.5",
+    "ou": 46.5
+   },
+   {
+    "away": "TEN",
+    "home": "DAL",
+    "t": "Sun Nov 22 · 1:00 PM ET",
+    "loc": "AT&T Stadium — Arlington, TX",
+    "sp": "DAL -6.5",
+    "ou": 48.5
+   },
+   {
+    "away": "TB",
+    "home": "DET",
+    "t": "Sun Nov 22 · 1:00 PM ET",
+    "loc": "Ford Field — Detroit, MI",
+    "sp": "DET -4.5",
+    "ou": 49.5
+   },
+   {
+    "away": "ARI",
+    "home": "KC",
+    "t": "Sun Nov 22 · 1:00 PM ET",
+    "loc": "Arrowhead Stadium — Kansas City, MO",
+    "sp": "KC -11.5",
+    "ou": 44.5
+   },
+   {
+    "away": "JAX",
+    "home": "NYG",
+    "t": "Sun Nov 22 · 1:00 PM ET",
+    "loc": "MetLife Stadium — East Rutherford, NJ",
+    "sp": "JAX -1.5",
+    "ou": 46.5
+   },
+   {
+    "away": "BAL",
+    "home": "CAR",
+    "t": "Sun Nov 22 · 1:00 PM ET",
+    "loc": "Bank of America Stadium — Charlotte, NC",
+    "sp": "BAL -2.5",
+    "ou": 46.5
+   },
+   {
+    "away": "NYJ",
+    "home": "LAC",
+    "t": "Sun Nov 22 · 4:05 PM ET",
+    "loc": "SoFi Stadium — Inglewood, CA",
+    "sp": "LAC -5.5",
+    "ou": 41.5
+   },
+   {
+    "away": "LV",
+    "home": "DEN",
+    "t": "Sun Nov 22 · 4:25 PM ET",
+    "loc": "Empower Field at Mile High — Denver, CO",
+    "sp": "DEN -7.5",
+    "ou": 41.5
+   },
+   {
+    "away": "PIT",
+    "home": "PHI",
+    "t": "Sun Nov 22 · 4:25 PM ET",
+    "loc": "Lincoln Financial Field — Philadelphia, PA",
+    "sp": "PIT -2.5",
+    "ou": 42.5
+   },
+   {
+    "away": "MIN",
+    "home": "SF",
+    "t": "Sun Nov 22 · 8:20 PM ET",
+    "loc": "Estadio Banorte — Mexico City, Mexico",
+    "sp": "SF -3.5",
+    "ou": 46.5
+   },
+   {
+    "away": "CIN",
+    "home": "WAS",
+    "t": "Mon Nov 23 · 8:15 PM ET",
+    "loc": "Northwest Stadium — Landover, MD",
+    "sp": "CIN -1.5",
+    "ou": 52.5
+   }
+  ],
+  "12": [
+   {
+    "away": "GB",
+    "home": "LAR",
+    "t": "Wed Nov 25 · 8:00 PM ET",
+    "loc": "SoFi Stadium — Inglewood, CA",
+    "sp": "LAR -4.5",
+    "ou": 48.5
+   },
+   {
+    "away": "CHI",
+    "home": "DET",
+    "t": "Thu Nov 26 · 1:00 PM ET",
+    "loc": "Ford Field — Detroit, MI",
+    "sp": "DET -2.5",
+    "ou": 52.5
+   },
+   {
+    "away": "PHI",
+    "home": "DAL",
+    "t": "Thu Nov 26 · 4:30 PM ET",
+    "loc": "AT&T Stadium — Arlington, TX",
+    "sp": "DAL -1.5",
+    "ou": 49.5
+   },
+   {
+    "away": "KC",
+    "home": "BUF",
+    "t": "Thu Nov 26 · 8:20 PM ET",
+    "loc": "Highmark Stadium — Orchard Park, NY",
+    "sp": "BUF -2.5",
+    "ou": 50.5
+   },
+   {
+    "away": "DEN",
+    "home": "PIT",
+    "t": "Fri Nov 27 · 3:00 PM ET",
+    "loc": "Acrisure Stadium — Pittsburgh, PA",
+    "sp": "DEN -1.5",
+    "ou": 39.5
+   },
+   {
+    "away": "NO",
+    "home": "CIN",
+    "t": "Sun Nov 29 · 1:00 PM ET",
+    "loc": "Paycor Stadium — Cincinnati, OH",
+    "sp": "CIN -6.5",
+    "ou": 48.5
+   },
+   {
+    "away": "LV",
+    "home": "CLE",
+    "t": "Sun Nov 29 · 1:00 PM ET",
+    "loc": "Huntington Bank Field — Cleveland, OH",
+    "sp": "CLE -1.5",
+    "ou": 39.5
+   },
+   {
+    "away": "NYG",
+    "home": "IND",
+    "t": "Sun Nov 29 · 1:00 PM ET",
+    "loc": "Lucas Oil Stadium — Indianapolis, IN",
+    "sp": "NYG -2.5",
+    "ou": 47.5
+   },
+   {
+    "away": "NYJ",
+    "home": "MIA",
+    "t": "Sun Nov 29 · 1:00 PM ET",
+    "loc": "Hard Rock Stadium — Miami Gardens, FL",
+    "sp": "MIA -1.5",
+    "ou": 40.5
+   },
+   {
+    "away": "ATL",
+    "home": "MIN",
+    "t": "Sun Nov 29 · 1:00 PM ET",
+    "loc": "U.S. Bank Stadium — Minneapolis, MN",
+    "sp": "MIN -4.5",
+    "ou": 43.5
+   },
+   {
+    "away": "BAL",
+    "home": "HOU",
+    "t": "Sun Nov 29 · 1:00 PM ET",
+    "loc": "Reliant Stadium — Houston, TX",
+    "sp": "HOU -3.5",
+    "ou": 45.5
+   },
+   {
+    "away": "TEN",
+    "home": "JAX",
+    "t": "Sun Nov 29 · 4:05 PM ET",
+    "loc": "EverBank Stadium — Jacksonville, FL",
+    "sp": "JAX -5.5",
+    "ou": 45.5
+   },
+   {
+    "away": "WAS",
+    "home": "ARI",
+    "t": "Sun Nov 29 · 4:25 PM ET",
+    "loc": "State Farm Stadium — Glendale, AZ",
+    "sp": "WSH -4.5",
+    "ou": 47.5
+   },
+   {
+    "away": "SEA",
+    "home": "SF",
+    "t": "Sun Nov 29 · 4:25 PM ET",
+    "loc": "Levi's Stadium — Santa Clara, CA",
+    "sp": "SEA -1.5",
+    "ou": 46.5
+   },
+   {
+    "away": "NE",
+    "home": "LAC",
+    "t": "Sun Nov 29 · 8:20 PM ET",
+    "loc": "SoFi Stadium — Inglewood, CA",
+    "sp": "NE -2.5",
+    "ou": 45.5
+   },
+   {
+    "away": "CAR",
+    "home": "TB",
+    "t": "Mon Nov 30 · 8:15 PM ET",
+    "loc": "Raymond James Stadium — Tampa, FL",
+    "sp": "TB -3.5",
+    "ou": 44.5
+   }
+  ],
+  "13": [
+   {
+    "away": "KC",
+    "home": "LAR",
+    "t": "Thu Dec 3 · 8:15 PM ET",
+    "loc": "SoFi Stadium — Inglewood, CA",
+    "sp": "LAR -4.5",
+    "ou": 47.5
+   },
+   {
+    "away": "DET",
+    "home": "ATL",
+    "t": "Sun Dec 6 · 1:00 PM ET",
+    "loc": "Mercedes-Benz Stadium — Atlanta, GA",
+    "sp": "DET -3.5",
+    "ou": 48.5
+   },
+   {
+    "away": "JAX",
+    "home": "CHI",
+    "t": "Sun Dec 6 · 1:00 PM ET",
+    "loc": "Soldier Field — Chicago, IL",
+    "sp": "CHI -3",
+    "ou": 47.5
+   },
+   {
+    "away": "CIN",
+    "home": "CLE",
+    "t": "Sun Dec 6 · 1:00 PM ET",
+    "loc": "Huntington Bank Field — Cleveland, OH",
+    "sp": "CIN -4.5",
+    "ou": 45.5
+   },
+   {
+    "away": "WAS",
+    "home": "TEN",
+    "t": "Sun Dec 6 · 1:00 PM ET",
+    "loc": "Nissan Stadium — Nashville, TN",
+    "sp": "WSH -1.5",
+    "ou": 46.5
+   },
+   {
+    "away": "GB",
+    "home": "NO",
+    "t": "Sun Dec 6 · 1:00 PM ET",
+    "loc": "Caesars Superdome — New Orleans, LA",
+    "sp": "GB -4.5",
+    "ou": 45.5
+   },
+   {
+    "away": "SF",
+    "home": "NYG",
+    "t": "Sun Dec 6 · 1:00 PM ET",
+    "loc": "MetLife Stadium — East Rutherford, NJ",
+    "sp": "SF -3",
+    "ou": 47.5
+   },
+   {
+    "away": "LAC",
+    "home": "TB",
+    "t": "Sun Dec 6 · 1:00 PM ET",
+    "loc": "Raymond James Stadium — Tampa, FL",
+    "sp": "TB -1.5",
+    "ou": 46.5
+   },
+   {
+    "away": "MIA",
+    "home": "DEN",
+    "t": "Sun Dec 6 · 4:05 PM ET",
+    "loc": "Empower Field at Mile High — Denver, CO",
+    "sp": "DEN -9.5",
+    "ou": 42.5
+   },
+   {
+    "away": "PHI",
+    "home": "ARI",
+    "t": "Sun Dec 6 · 4:05 PM ET",
+    "loc": "State Farm Stadium — Glendale, AZ",
+    "sp": "PHI -1.5",
+    "ou": 43.5
+   },
+   {
+    "away": "CAR",
+    "home": "MIN",
+    "t": "Sun Dec 6 · 4:25 PM ET",
+    "loc": "U.S. Bank Stadium — Minneapolis, MN",
+    "sp": "MIN -3.5",
+    "ou": 42.5
+   },
+   {
+    "away": "BUF",
+    "home": "NE",
+    "t": "Sun Dec 6 · 4:25 PM ET",
+    "loc": "Gillette Stadium — Foxborough, MA",
+    "sp": "NE -1.5",
+    "ou": 48.5
+   },
+   {
+    "away": "HOU",
+    "home": "PIT",
+    "t": "Sun Dec 6 · 8:20 PM ET",
+    "loc": "Acrisure Stadium — Pittsburgh, PA",
+    "sp": "HOU -1.5",
+    "ou": 41.5
+   },
+   {
+    "away": "DAL",
+    "home": "SEA",
+    "t": "Mon Dec 7 · 8:15 PM ET",
+    "loc": "Lumen Field — Seattle, WA",
+    "sp": "SEA -4.5",
+    "ou": 48.5
+   }
+  ],
+  "14": [
+   {
+    "away": "MIN",
+    "home": "NE",
+    "t": "Thu Dec 10 · 8:15 PM ET",
+    "loc": "Gillette Stadium — Foxborough, MA",
+    "sp": "NE -4.5",
+    "ou": 43.5
+   },
+   {
+    "away": "ATL",
+    "home": "CLE",
+    "t": "Sun Dec 13 · 1:00 PM ET",
+    "loc": "Huntington Bank Field — Cleveland, OH",
+    "sp": "CLE -1.5",
+    "ou": 40.5
+   },
+   {
+    "away": "TEN",
+    "home": "DET",
+    "t": "Sun Dec 13 · 1:00 PM ET",
+    "loc": "Ford Field — Detroit, MI",
+    "sp": "DET -7.5",
+    "ou": 47.5
+   },
+   {
+    "away": "CHI",
+    "home": "MIA",
+    "t": "Sun Dec 13 · 1:00 PM ET",
+    "loc": "Hard Rock Stadium — Miami Gardens, FL",
+    "sp": "CHI -6.5",
+    "ou": 46.5
+   },
+   {
+    "away": "DEN",
+    "home": "NYJ",
+    "t": "Sun Dec 13 · 1:00 PM ET",
+    "loc": "MetLife Stadium — East Rutherford, NJ",
+    "sp": "DEN -5.5",
+    "ou": 39.5
+   },
+   {
+    "away": "IND",
+    "home": "PHI",
+    "t": "Sun Dec 13 · 1:00 PM ET",
+    "loc": "Lincoln Financial Field — Philadelphia, PA",
+    "sp": "PHI -2.5",
+    "ou": 46.5
+   },
+   {
+    "away": "HOU",
+    "home": "WAS",
+    "t": "Sun Dec 13 · 1:00 PM ET",
+    "loc": "Northwest Stadium — Landover, MD",
+    "sp": "HOU -1.5",
+    "ou": 44.5
+   },
+   {
+    "away": "NO",
+    "home": "CAR",
+    "t": "Sun Dec 13 · 1:00 PM ET",
+    "loc": "Bank of America Stadium — Charlotte, NC",
+    "sp": "CAR -2.5",
+    "ou": 43.5
+   },
+   {
+    "away": "TB",
+    "home": "BAL",
+    "t": "Sun Dec 13 · 1:00 PM ET",
+    "loc": "M&T Bank Stadium — Baltimore, MD",
+    "sp": "BAL -3.5",
+    "ou": 48.5
+   },
+   {
+    "away": "LAC",
+    "home": "LV",
+    "t": "Sun Dec 13 · 4:05 PM ET",
+    "loc": "Allegiant Stadium — Las Vegas, NV",
+    "sp": "LAC -1.5",
+    "ou": 43.5
+   },
+   {
+    "away": "KC",
+    "home": "CIN",
+    "t": "Sun Dec 13 · 4:25 PM ET",
+    "loc": "Paycor Stadium — Cincinnati, OH",
+    "sp": "CIN -1.5",
+    "ou": 48.5
+   },
+   {
+    "away": "LAR",
+    "home": "SF",
+    "t": "Sun Dec 13 · 4:25 PM ET",
+    "loc": "Levi's Stadium — Santa Clara, CA",
+    "sp": "LAR -2.5",
+    "ou": 49.5
+   },
+   {
+    "away": "NYG",
+    "home": "SEA",
+    "t": "Sun Dec 13 · 4:25 PM ET",
+    "loc": "Lumen Field — Seattle, WA",
+    "sp": "SEA -7.5",
+    "ou": 45.5
+   },
+   {
+    "away": "BUF",
+    "home": "GB",
+    "t": "Sun Dec 13 · 8:20 PM ET",
+    "loc": "Lambeau Field — Green Bay, WI",
+    "sp": "GB -1.5",
+    "ou": 49.5
+   },
+   {
+    "away": "PIT",
+    "home": "JAX",
+    "t": "Mon Dec 14 · 8:15 PM ET",
+    "loc": "EverBank Stadium — Jacksonville, FL",
+    "sp": "JAX -3",
+    "ou": 44.5
+   }
+  ],
+  "15": [
+   {
+    "away": "SF",
+    "home": "LAC",
+    "t": "Thu Dec 17 · 8:15 PM ET",
+    "loc": "SoFi Stadium — Inglewood, CA",
+    "sp": "SF -1.5",
+    "ou": 47.5
+   },
+   {
+    "away": "SEA",
+    "home": "PHI",
+    "t": "Sat Dec 19 · 5:00 PM ET",
+    "loc": "Lincoln Financial Field — Philadelphia, PA",
+    "sp": "SEA -6.5",
+    "ou": 43.5
+   },
+   {
+    "away": "CHI",
+    "home": "BUF",
+    "t": "Sat Dec 19 · 8:20 PM ET",
+    "loc": "Highmark Stadium — Orchard Park, NY",
+    "sp": "BUF -3.5",
+    "ou": 51.5
+   },
+   {
+    "away": "MIA",
+    "home": "GB",
+    "t": "Sun Dec 20 · 1:00 PM ET",
+    "loc": "Lambeau Field — Green Bay, WI",
+    "sp": "GB -10.5",
+    "ou": 45.5
+   },
+   {
+    "away": "IND",
+    "home": "TEN",
+    "t": "Sun Dec 20 · 1:00 PM ET",
+    "loc": "Nissan Stadium — Nashville, TN",
+    "sp": "TEN -1.5",
+    "ou": 47.5
+   },
+   {
+    "away": "CLE",
+    "home": "NYG",
+    "t": "Sun Dec 20 · 1:00 PM ET",
+    "loc": "MetLife Stadium — East Rutherford, NJ",
+    "sp": "NYG -4.5",
+    "ou": 40.5
+   },
+   {
+    "away": "BAL",
+    "home": "PIT",
+    "t": "Sun Dec 20 · 1:00 PM ET",
+    "loc": "Acrisure Stadium — Pittsburgh, PA",
+    "sp": "PIT -1.5",
+    "ou": 46.5
+   },
+   {
+    "away": "NO",
+    "home": "TB",
+    "t": "Sun Dec 20 · 1:00 PM ET",
+    "loc": "Raymond James Stadium — Tampa, FL",
+    "sp": "TB -3.5",
+    "ou": 45.5
+   },
+   {
+    "away": "ATL",
+    "home": "WAS",
+    "t": "Sun Dec 20 · 1:00 PM ET",
+    "loc": "Northwest Stadium — Landover, MD",
+    "sp": "WSH -3.5",
+    "ou": 46.5
+   },
+   {
+    "away": "CIN",
+    "home": "CAR",
+    "t": "Sun Dec 20 · 1:00 PM ET",
+    "loc": "Bank of America Stadium — Charlotte, NC",
+    "sp": "CIN -2.5",
+    "ou": 47.5
+   },
+   {
+    "away": "JAX",
+    "home": "HOU",
+    "t": "Sun Dec 20 · 1:00 PM ET",
+    "loc": "Reliant Stadium — Houston, TX",
+    "sp": "HOU -3",
+    "ou": 43.5
+   },
+   {
+    "away": "NYJ",
+    "home": "ARI",
+    "t": "Sun Dec 20 · 4:05 PM ET",
+    "loc": "State Farm Stadium — Glendale, AZ",
+    "sp": "NYJ -1.5",
+    "ou": 41.5
+   },
+   {
+    "away": "DEN",
+    "home": "LV",
+    "t": "Sun Dec 20 · 4:25 PM ET",
+    "loc": "Allegiant Stadium — Las Vegas, NV",
+    "sp": "DEN -4.5",
+    "ou": 41.5
+   },
+   {
+    "away": "DAL",
+    "home": "LAR",
+    "t": "Sun Dec 20 · 4:25 PM ET",
+    "loc": "SoFi Stadium — Inglewood, CA",
+    "sp": "LAR -6",
+    "ou": 52.5
+   },
+   {
+    "away": "DET",
+    "home": "MIN",
+    "t": "Sun Dec 20 · 8:20 PM ET",
+    "loc": "U.S. Bank Stadium — Minneapolis, MN",
+    "sp": "DET -1.5",
+    "ou": 46.5
+   },
+   {
+    "away": "NE",
+    "home": "KC",
+    "t": "Mon Dec 21 · 8:15 PM ET",
+    "loc": "Arrowhead Stadium — Kansas City, MO",
+    "sp": "KC -2.5",
+    "ou": 45.5
+   }
+  ],
+  "16": [
+   {
+    "away": "HOU",
+    "home": "PHI",
+    "t": "Thu Dec 24 · 8:15 PM ET",
+    "loc": "Lincoln Financial Field — Philadelphia, PA",
+    "sp": "HOU -3.5",
+    "ou": 37.5
+   },
+   {
+    "away": "GB",
+    "home": "CHI",
+    "t": "Fri Dec 25 · 1:00 PM ET",
+    "loc": "Soldier Field — Chicago, IL",
+    "sp": "CHI -1.5",
+    "ou": 47.5
+   },
+   {
+    "away": "BUF",
+    "home": "DEN",
+    "t": "Fri Dec 25 · 4:30 PM ET",
+    "loc": "Empower Field at Mile High — Denver, CO",
+    "sp": "BUF -1.5",
+    "ou": 46.5
+   },
+   {
+    "away": "LAR",
+    "home": "SEA",
+    "t": "Fri Dec 25 · 8:15 PM ET",
+    "loc": "Lumen Field — Seattle, WA",
+    "sp": "SEA -1.5",
+    "ou": 47.5
+   },
+   {
+    "away": "TB",
+    "home": "ATL",
+    "t": "Sun Dec 27 · 12:00 AM ET",
+    "loc": "Mercedes-Benz Stadium — Atlanta, GA",
+    "sp": "TB -1.5",
+    "ou": 45.5
+   },
+   {
+    "away": "CIN",
+    "home": "IND",
+    "t": "Sun Dec 27 · 12:00 AM ET",
+    "loc": "Lucas Oil Stadium — Indianapolis, IN",
+    "sp": "CIN -5.5",
+    "ou": 52.5
+   },
+   {
+    "away": "WAS",
+    "home": "MIN",
+    "t": "Sun Dec 27 · 12:00 AM ET",
+    "loc": "U.S. Bank Stadium — Minneapolis, MN",
+    "sp": "MIN -2.5",
+    "ou": 46.5
+   },
+   {
+    "away": "CAR",
+    "home": "PIT",
+    "t": "Sun Dec 27 · 12:00 AM ET",
+    "loc": "Acrisure Stadium — Pittsburgh, PA",
+    "sp": "PIT -3.5",
+    "ou": 41.5
+   },
+   {
+    "away": "LAC",
+    "home": "MIA",
+    "t": "Sun Dec 27 · 1:00 PM ET",
+    "loc": "Hard Rock Stadium — Miami Gardens, FL",
+    "sp": "LAC -3.0",
+    "ou": 45.5
+   },
+   {
+    "away": "ARI",
+    "home": "NO",
+    "t": "Sun Dec 27 · 1:00 PM ET",
+    "loc": "Caesars Superdome — New Orleans, LA",
+    "sp": "NO -5.5",
+    "ou": 44.5
+   },
+   {
+    "away": "NE",
+    "home": "NYJ",
+    "t": "Sun Dec 27 · 1:00 PM ET",
+    "loc": "MetLife Stadium — East Rutherford, NJ",
+    "sp": "NE -6.5",
+    "ou": 40.5
+   },
+   {
+    "away": "CLE",
+    "home": "BAL",
+    "t": "Sun Dec 27 · 1:00 PM ET",
+    "loc": "M&T Bank Stadium — Baltimore, MD",
+    "sp": "BAL -4.5",
+    "ou": 43.5
+   },
+   {
+    "away": "TEN",
+    "home": "LV",
+    "t": "Sun Dec 27 · 4:05 PM ET",
+    "loc": "Allegiant Stadium — Las Vegas, NV",
+    "sp": "LV -1.5",
+    "ou": 42.5
+   },
+   {
+    "away": "SF",
+    "home": "KC",
+    "t": "Sun Dec 27 · 4:25 PM ET",
+    "loc": "Arrowhead Stadium — Kansas City, MO",
+    "sp": "KC -3",
+    "ou": 46.5
+   },
+   {
+    "away": "JAX",
+    "home": "DAL",
+    "t": "Sun Dec 27 · 8:20 PM ET",
+    "loc": "AT&T Stadium — Arlington, TX",
+    "sp": "DAL -3",
+    "ou": 51.5
+   },
+   {
+    "away": "NYG",
+    "home": "DET",
+    "t": "Mon Dec 28 · 8:15 PM ET",
+    "loc": "Ford Field — Detroit, MI",
+    "sp": "DET -4.5",
+    "ou": 49.5
+   }
+  ],
+  "17": [
+   {
+    "away": "BAL",
+    "home": "CIN",
+    "t": "Thu Dec 31 · 8:15 PM ET",
+    "loc": "Paycor Stadium — Cincinnati, OH",
+    "sp": "CIN -4.5",
+    "ou": 51.5
+   },
+   {
+    "away": "DEN",
+    "home": "NE",
+    "t": "Sun Jan 3 · 12:00 AM ET",
+    "loc": "Gillette Stadium — Foxborough, MA",
+    "sp": "NE -2.5",
+    "ou": 42.5
+   },
+   {
+    "away": "KC",
+    "home": "LAC",
+    "t": "Sun Jan 3 · 12:00 AM ET",
+    "loc": "SoFi Stadium — Inglewood, CA",
+    "sp": "KC -2.5",
+    "ou": 45.5
+   },
+   {
+    "away": "LAR",
+    "home": "TB",
+    "t": "Sun Jan 3 · 12:00 AM ET",
+    "loc": "Raymond James Stadium — Tampa, FL",
+    "sp": "LAR -4.5",
+    "ou": 48.5
+   },
+   {
+    "away": "WAS",
+    "home": "JAX",
+    "t": "Sun Jan 3 · 12:00 AM ET",
+    "loc": "EverBank Stadium — Jacksonville, FL",
+    "sp": "JAX -3.5",
+    "ou": 48.5
+   },
+   {
+    "away": "NO",
+    "home": "ATL",
+    "t": "Sun Jan 3 · 1:00 PM ET",
+    "loc": "Mercedes-Benz Stadium — Atlanta, GA",
+    "sp": "ATL -1.5",
+    "ou": 44.5
+   },
+   {
+    "away": "IND",
+    "home": "CLE",
+    "t": "Sun Jan 3 · 1:00 PM ET",
+    "loc": "Huntington Bank Field — Cleveland, OH",
+    "sp": "CLE -2.5",
+    "ou": 43.5
+   },
+   {
+    "away": "NYG",
+    "home": "DAL",
+    "t": "Sun Jan 3 · 1:00 PM ET",
+    "loc": "AT&T Stadium — Arlington, TX",
+    "sp": "DAL -4.5",
+    "ou": 49.5
+   },
+   {
+    "away": "PIT",
+    "home": "TEN",
+    "t": "Sun Jan 3 · 1:00 PM ET",
+    "loc": "Nissan Stadium — Nashville, TN",
+    "sp": "PIT -1.5",
+    "ou": 42.5
+   },
+   {
+    "away": "BUF",
+    "home": "MIA",
+    "t": "Sun Jan 3 · 1:00 PM ET",
+    "loc": "Hard Rock Stadium — Miami Gardens, FL",
+    "sp": "BUF -7.5",
+    "ou": 47.5
+   },
+   {
+    "away": "MIN",
+    "home": "NYJ",
+    "t": "Sun Jan 3 · 1:00 PM ET",
+    "loc": "MetLife Stadium — East Rutherford, NJ",
+    "sp": "MIN -3.5",
+    "ou": 39.5
+   },
+   {
+    "away": "SEA",
+    "home": "CAR",
+    "t": "Sun Jan 3 · 1:00 PM ET",
+    "loc": "Bank of America Stadium — Charlotte, NC",
+    "sp": "SEA -5.5",
+    "ou": 42.5
+   },
+   {
+    "away": "LV",
+    "home": "ARI",
+    "t": "Sun Jan 3 · 4:05 PM ET",
+    "loc": "State Farm Stadium — Glendale, AZ",
+    "sp": "LV -1.5",
+    "ou": 42.5
+   },
+   {
+    "away": "DET",
+    "home": "CHI",
+    "t": "Sun Jan 3 · 4:25 PM ET",
+    "loc": "Soldier Field — Chicago, IL",
+    "sp": "CHI -1.5",
+    "ou": 49.5
+   },
+   {
+    "away": "PHI",
+    "home": "SF",
+    "t": "Sun Jan 3 · 8:20 PM ET",
+    "loc": "Levi's Stadium — Santa Clara, CA",
+    "sp": "SF -7.5",
+    "ou": 45.5
+   },
+   {
+    "away": "HOU",
+    "home": "GB",
+    "t": "Mon Jan 4 · 8:15 PM ET",
+    "loc": "Lambeau Field — Green Bay, WI",
+    "sp": "GB -2.5",
+    "ou": 42.5
+   }
+  ],
+  "18": [
+   {
+    "away": "NYJ",
+    "home": "BUF",
+    "t": "Sun Jan 10 · 12:00 AM ET",
+    "loc": "Highmark Stadium — Orchard Park, NY",
+    "sp": "BUF -10",
+    "ou": 43.5
+   },
+   {
+    "away": "CLE",
+    "home": "CIN",
+    "t": "Sun Jan 10 · 12:00 AM ET",
+    "loc": "Paycor Stadium — Cincinnati, OH",
+    "sp": "CIN -7.5",
+    "ou": 43.5
+   },
+   {
+    "away": "LAC",
+    "home": "DEN",
+    "t": "Sun Jan 10 · 12:00 AM ET",
+    "loc": "Empower Field at Mile High — Denver, CO",
+    "sp": "DEN -1.5",
+    "ou": 41.5
+   },
+   {
+    "away": "DET",
+    "home": "GB",
+    "t": "Sun Jan 10 · 12:00 AM ET",
+    "loc": "Lambeau Field — Green Bay, WI",
+    "sp": "GB -2.5",
+    "ou": 47.5
+   },
+   {
+    "away": "JAX",
+    "home": "IND",
+    "t": "Sun Jan 10 · 12:00 AM ET",
+    "loc": "Lucas Oil Stadium — Indianapolis, IN",
+    "sp": "JAX -3.5",
+    "ou": 46.5
+   },
+   {
+    "away": "LV",
+    "home": "KC",
+    "t": "Sun Jan 10 · 12:00 AM ET",
+    "loc": "Arrowhead Stadium — Kansas City, MO",
+    "sp": "KC -8.5",
+    "ou": 40.5
+   },
+   {
+    "away": "SEA",
+    "home": "LAR",
+    "t": "Sun Jan 10 · 12:00 AM ET",
+    "loc": "SoFi Stadium — Inglewood, CA",
+    "sp": "LAR -3",
+    "ou": 44.5
+   },
+   {
+    "away": "CHI",
+    "home": "MIN",
+    "t": "Sun Jan 10 · 12:00 AM ET",
+    "loc": "U.S. Bank Stadium — Minneapolis, MN",
+    "sp": "MIN -1.5",
+    "ou": 43.5
+   },
+   {
+    "away": "MIA",
+    "home": "NE",
+    "t": "Sun Jan 10 · 12:00 AM ET",
+    "loc": "Gillette Stadium — Foxborough, MA",
+    "sp": "NE -10.5",
+    "ou": 42.5
+   },
+   {
+    "away": "TB",
+    "home": "NO",
+    "t": "Sun Jan 10 · 12:00 AM ET",
+    "loc": "Caesars Superdome — New Orleans, LA",
+    "sp": "TB -1.5",
+    "ou": 43.5
+   },
+   {
+    "away": "PHI",
+    "home": "NYG",
+    "t": "Sun Jan 10 · 12:00 AM ET",
+    "loc": "MetLife Stadium — East Rutherford, NJ",
+    "sp": "PHI -1.5",
+    "ou": 41.5
+   },
+   {
+    "away": "SF",
+    "home": "ARI",
+    "t": "Sun Jan 10 · 12:00 AM ET",
+    "loc": "State Farm Stadium — Glendale, AZ",
+    "sp": "SF -8.5",
+    "ou": 44.5
+   },
+   {
+    "away": "DAL",
+    "home": "WAS",
+    "t": "Sun Jan 10 · 12:00 AM ET",
+    "loc": "Northwest Stadium — Landover, MD",
+    "sp": "DAL -1.5",
+    "ou": 49.5
+   },
+   {
+    "away": "ATL",
+    "home": "CAR",
+    "t": "Sun Jan 10 · 12:00 AM ET",
+    "loc": "Bank of America Stadium — Charlotte, NC",
+    "sp": "CAR -2.5",
+    "ou": 41.5
+   },
+   {
+    "away": "PIT",
+    "home": "BAL",
+    "t": "Sun Jan 10 · 12:00 AM ET",
+    "loc": "M&T Bank Stadium — Baltimore, MD",
+    "sp": "PIT -1.5",
+    "ou": 43.5
+   },
+   {
+    "away": "TEN",
+    "home": "HOU",
+    "t": "Sun Jan 10 · 12:00 AM ET",
+    "loc": "Reliant Stadium — Houston, TX",
+    "sp": "HOU -7",
+    "ou": 39.5
+   }
+  ]
+ },
+ "stamps": {
+  "lines": "2026-11-10",
+  "lookahead": "2026-11-10",
+  "futures": "2026-11-10",
+  "scorecard": "2026-08-30"
+ },
+ "analysis": {
+  "1": "Kickoff-day check, Wednesday Sep 9: all four picks confirmed healthy and the plan stands — LAC ×9, JAX ×9, DET ×7, PHI ×3. Real lines moved only at the margins: the Chargers eased from -10.5 to -9.5 (still ~80% at home over Brissett’s Cardinals — drift, not news), while Jacksonville firmed from -7.5 to -8.5 (~79%), so our two nine-deep cohorts are now nearly twins in win probability. Detroit (-7) and Philadelphia (-5.5) haven’t moved a tick in five days. Injury sweep is clean: Herbert healthy (the Biadasz loss at center is season-old news and priced in), the Jaguars filed no injuries, the Eagles enter healthy, and nothing has surfaced on Goff.\n\nSo the read is unchanged from the plan: expected survivors ~26 of 28, right on the count line, with a $125 buyback as the safety net on anything that misses. Nothing left to do before Sunday except lock all 28 picks on the pool site, glance at the Friday injury designations (Herbert, Lawrence, Goff, plus Washington’s side for the Eagles game), and check wind on the Philly game Sunday morning — the other three are domes or SoCal. If a QB from our four lands on the Friday report as questionable or out, shift that cohort’s weight toward Jacksonville and Detroit; do not unlock a hold team for Week 1.",
+  "2": "Friday, Sep 18 — injury sweep done (your Open-tap request): all four picks are clean where it counts. McCaffrey is healthy (the IR story was from an old season), Purdy/Herbert/Mayfield/Hurts all clean; McConkey (ribs) is trending OUT for the Chargers and the line already reflects it at -6.5. Board stands: SF ×9, LAC ×9, TB ×7, PHI ×3. Bills beat the Lions 41-31 Thursday — both are holds, nothing changes. Enter the Cohort C changes on Splash if you haven’t, then 🔎 Check Splash inputs.\n\nThursday, Sep 17 — PoolGenius Week 2 sheet is loaded (section 4). It lands exactly where the Tuesday read did: its Best Option is Tampa Bay (grade 100, 78%, 31% public) and its Second Best is Philadelphia (94, 73%, 11% public) — the two Cohort C landing spots. Baltimore grades only 64 despite 79% win odds because PG gives BAL the highest future value on the whole board (3.2): it agrees that spending the Ravens now is the expensive version. San Francisco is graded 89 at 85–89% but is the week’s most popular pick nationally (34%) with a -13.5 spread — fine as our anchor, no edge, no worry. Lines since Tuesday: SF -12.5 → -13.5, LAC -7 → -6.5, and Seattle slid again to -3.5 (PG has SEA at 62%) — the case for moving C off Seattle only got stronger. Tap ⚖ Compare for the full three-way read.\n\nTuesday update, Sep 15: real Week 2 lines are in and one of our four default legs is broken. Seattle opened -10 at Arizona and is now -4.5 — Sam Darnold is expected to MISS the game (glute tendon injury), and the market repriced the Cardinals after they beat our Chargers. A backup QB on the road at -4.5 is ~66%, nowhere near survivor grade: move Cohort C (entries 19–25) off Seattle. The clean landing spots: Baltimore -8.5 over New Orleans at home (~77%) and Tampa Bay -8.5 over Cleveland (~77%). BAL is the stronger team but burns a Wk-4 (vs TEN) and Wk-16 (vs CLE) anchor — and DK just made the Ravens the Super Bowl favorite (+750). Philadelphia -7 at Tennessee (~73%) is the no-anchor-burned alternative. My default: C → TB ×4 / PHI ×3 keeps every anchor in the bank and no game carrying more than 9 entries; C → BAL ×7 is the higher-percentage, higher-cost version. San Francisco firmed to -12.5 vs Miami (~86%) and stays the anchor on ×9.\n\nThe Chargers leg (×9, -7 vs LV) is fine but no longer premium — the line eased from -8.5 after the ARI loss and Ladd McConkey (ribs) is day-to-day. ~73% against a bad Raiders team is acceptable and Cohort B has no cheaper equivalent, so it holds. Two cautions: Detroit is an UNDERDOG Thursday night at Buffalo (+4.5) — nobody touches DET this week (all 28 still hold it, and BUF is a hold too — let that game pass). And the $1,000 buyback still showed UNPROCESSED on Splash as of Tuesday morning — entries 1–8 are listed Eliminated. Confirm the payment went through TODAY: Week 2 locks Sunday 1 PM ET, and 8 of our 28 don’t exist until it lands.",
+  "3": "Week 3 update, Thu Sep 24 — the pool reset around us. After Sunday’s carnage (TB 144, LAC 45, BAL 31 all lost) and the buybacks, 301 of 587 are alive and we are the biggest block at 28, ahead of vins 19, MC291 14, URAMALAKA 14 (didn’t rebuy), chcumming1 14 (bought back 10). FLPselver stayed at 5. All 28 of ours are back — at a price: $2,800 spent, $800 over the plan, with $175 / $200 / $225 rebuys still available in Weeks 3–5 if you want them. The count line for Week 3 is 21, so the goal this week is simple: a board that expects 21–22 survivors with no single game carrying more than 11.\n\nThe lines changed the plan. Kansas City is -10.5 AT Miami (~83%) — the best number on the board by a wide margin, against the worst team in football (+100000 to win the Super Bowl); Chiefs are healthy. San Francisco is -8.5 vs Arizona (~77%): Purdy limited (shoulder/toe) but McCaffrey full, both WRs Evans and Robinson missed Wednesday — still fine at home vs ARI, but it’s already used on 5 entries. Detroit, the planned Week-3 spend, is only -6.5 vs the Jets (~71%) with a banged-up secondary — usable, not premium. Seattle -7 at Washington (~73%) hinges on Darnold (limited Wed, decision Friday) — Daniels is out for Washington, so it’s a real option only if Darnold plays. The Giants (planned as filler) lost Jaxson Dart for the season — off the board. Buffalo -7 vs LAC is a premium hold; Green Bay Thursday is -4.5 with both starting tackles out — pass.\n\nTHE BOARD I’VE DEALT (by entry number, in the Entry sheet): Chiefs ×11 on the least-burned entries (#3–6, 8, 21, 22, 24, 25, 27, 28 — they’ve burned only cheap teams, so they can afford KC’s Week 9/11/18 value); 49ers ×10 on #1, 9, 10, 12, 13, 15, 17, 19, 20, 23; Lions ×7 on the entries that already spent SF or JAX+PHI (#2, 7, 11, 14, 16, 18, 26). Expected survivors ≈ 21.8, worst single game 11. If Darnold is confirmed Friday, SEA ×3–4 can replace Lions on #2/7/16/18 to cut the DET exposure — I’ll flag it after the Friday sweep. The pool will pile onto KC at -10.5 (expect 30%+); our SF and DET slices are the differentiation.",
+  "4": "Week 4 update, Tue Sep 29 — a bad Sunday. Seattle lost 33-31 at Washington on a last-minute score (our ×6, plus vins ×5 and FLPselver ×5), and the Saints lost 35-27 to the Raiders (our ×2). With Thursday’s six Packers that is 14 of 28 down and 14 alive: 49ers ×6 (36-30), Chiefs ×6 (24-10) and Giants ×2 (12-7) all won. The pool went from 369 alive to 275 of 589 before rebuys: Seahawks 42, Packers 34, Saints 29, Panthers 14, Eagles 5. You are buying back 6 of the 14 at $175 ($1,050; season $3,850), so Week 4 starts with 20 alive. The six to revive are the ones that burned the least: #4, #10, #24 (only cheap teams plus the Packers), #2 and #7 (49ers, otherwise cheap) and #1 (Eagles + Packers). The eight that stay dead all burned the Seahawks or two premium teams. Week 3 is finalized on that basis; if you revive different entry numbers on Splash, tell me and I’ll re-map.\n\nThe field reset too. URAMALAKA is 27 of 42 (lost 15), FLPselver 11 of 28 (lost 17 — a $2,975 rebuy question), vins 12 of 21, MC291 14 of 14 (Chiefs ×14, three perfect weeks), KHART88 10 of 14, chcumming1 8 of 14, HARRIGAN000 8 of 13. At 20 we are second to URAMALAKA (27, before their rebuys) and ahead of MC291 (14) and vins (12).\n\nWeek 4 lines (DK via ESPN, Tuesday morning): Vikings -11.5 vs Miami and Ravens -11.5 vs Tennessee are the two anchors (~80% each). Miami just lost De’Von Achane for the season; Justin Jefferson (ankle sprain) is expected to play and the line moved UP a point on Monday anyway. Baltimore has both centers hurt long-term and Stanley (toe) is iffy, but the Titans are +50000 and it is -11.5 at home with light rain. Bills -7 vs New England (~70%, no injuries, Patriots just lost 35-6) and Seahawks -7 vs the Chargers (~70%; LAC is 0-3 and hasn’t scored 20 in six games) are the second tier. Everything else is -3.5 or less: the 49ers slid to -3 with Trent Williams carted off (neck) and Bosa out; Bears are on Case Keenum; Rams have Nacua questionable at Philly; Detroit is only -3.5 at Carolina Sunday night. No pick below the top four.\n\nTHE BOARD for 20 (Entry sheet): Vikings ×7 on #1, 4, 10, 14, 24, 27, 28 — Minnesota has almost no later value, so the most-burned entries spend them; Ravens ×6 on #3, 5, 6, 8, 19, 20 — at -11.5 the Ravens are worth spending now (Wk 16 -10 vs CLE stays as the backup and Wk 14 has the Lions); Bills ×4 on #9, 17, 22, 23; Seahawks ×3 on #2, 7, 12 (clean rosters that haven’t used them). Expected survivors ≈ 15.3 of 20, worst single game 7. Week 5 look-ahead: Patriots -8.5 vs LV and Lions -8.5 at ARI are the anchors and every entry still holds both, so the last buyback week is covered.",
+  "5": "FRIDAY, Oct 9 — Tampa 24, Dallas 16. All 16 lost; the Tampa hedge paid and all 16 are being revived ($3,600). The pool lost 126 of 337 on the Cowboys, including MC291’s entire 14 (their first loss of the season and, with no buyback money spent all year, the end of them unless they pay), FLPselver 10, KHART88 5, chcumming1 5, vins 4, URAMALAKA 3. 211 alive before Week 5 revives. Week 5 is finalized here with all 16 rebuys ticked; the Week 6 / Week 7 plan is unchanged because Dallas was not in it. — — Week 5 update, Tue Oct 6 — the plan worked, barely. Vikings 15-10 over Miami: all 16 entries alive (you bought back #4 and #24 in Week 3, not six, and went all-in on Minnesota). The $600 hedge is gone, which is the price of certainty. The pool: 350 entered Week 4, 44 lost (Bills 16, Cardinals 14, Bengals 6, Saints 6), 306 alive before this week’s rebuys. Vikings were the chalk at 138, Ravens 82. Season buyback spend: $3,150.\n\nThe blocks: URAMALAKA 32 of 42 (lost 10 on BUF/ARI), FLPselver 16 of 28 (rebought 10, lost 5 on the Saints), MC291 14 of 14 (Vikings 9, Ravens 5 — still perfect), KHART88 13 of 14, vins 10 of 21 (lost 11 on CIN/BUF — the week’s big loser), chcumming1 9 of 14 (5 on Arizona), HARRIGAN000 9 of 13. Nobody has bought back yet this week; Week 4 rebuys are $200.\n\nWeek 5 is the LAST buyback week ($225). Lines (DK via ESPN, Tuesday): Cowboys -9.5 vs Tampa (THURSDAY 8:15 PM — picks lock Thursday), Bengals -7 at Miami, Texans -7 at Tennessee, Jaguars -6.5 vs Philadelphia in London, Lions -4.5 at Arizona, Patriots only -3.5 vs the Raiders. Injuries: Mayfield (dislocated thumb) is listed TBD but was out three weeks a week ago, Winfield is out — Tampa is thin; Dallas has Lamb full, Durant out. Cincinnati has Ja’Marr Chase in concussion protocol; Philadelphia is a mess (Barkley week-to-week, Jurgens, Smith, Goedert hurt), which is why Jacksonville is -6.5.\n\nTHE BOARD: all 16 on the COWBOYS, per the hedge plan — Tampa moneyline at about +400 needs a $720 stake to return the $3,600 that 16 rebuys would cost; size it to the price on Thursday and place it when you enter the picks. Dallas’s only later spot was Week 8 (-10.5 vs Arizona), and Steelers/Bengals/Patriots/Packers cover that week, so the burn is cheap. Texans are the Week 7 pair and stay untouched; Bengals keep Week 12. If you would rather split, Bengals ×8 at -7 with Miami +330 or so is the only other hedgeable spot of similar quality. Week 6 look-ahead (no lines posted yet; projections): Rams -13.5 vs Arizona, Patriots -9.5 vs Jets, Ravens -6.5 at Cleveland — first week a loss is final, so from there we spread: Rams 8 / Patriots 8.",
+  "6": "SUNDAY, Oct 18, 9:30 AM — what is actually on Splash for Week 6 is NOT the PoolGenius sheet: Chiefs on #3, 4, 5, 12, 24, 27; Patriots on #6, 14, 17, 20, 23, 28; Rams on #8, 19; Colts on #9, 22. No 49ers, no Monday-night exposure. The board here now matches the site. Thursday: Denver beat Seattle 17-14 in overtime — none of ours, but the Seahawks were on 19 entries in the pool before the reveal. Lines this morning: Chiefs -7.5, Patriots -7.5, Rams -12.5, Colts -6.5; Ravens slipped to -3 at Cleveland. Weather clear everywhere (Foxborough 53° and 3 mph, Kansas City 68°). Expected survivors on this spread about 11.3 of 16; the worst single game is six on the Chiefs (4:25) or six on the Patriots (1:00). Field read and the ledger update after the 1 PM reveal.\n\nWeek 6 update, Thu Oct 15 — the revives landed. Splash now shows all 16 revived (REV) after the Thursday-night Cowboys loss; 233 of 590 are alive going into the first week with no safety net. Our Week 6 picks are NOT on Splash yet as of 9:30 AM — Seahawks at Broncos kicks off at 8:15 PM tonight and that is the lock for the whole week. Enter them today: CHIEFS on #3, 5, 6, 8, 9, 12; 49ERS on #4, 20, 22, 24, 27, 28; PATRIOTS on #14, 17, 19, 23.\n\nRevives, final: us 16, chcumming1 5 (back to 14 of 14), SDTICONAK 4, HARRIGAN000 3, raiders4ever 3, KPC 3, BWTW 3, EBENNY7147 2, FLPselver 4 of 10 (15 of 28), and one each for MEANGIRLS, DeFinis, Nickcucolo. Did NOT revive: URAMALAKA (0 of 18, stays at 24 of 42), vins (0 of 12, 9 of 21), KHART88 (0 of 5, 9), MC291 (0 of 14 — gone). The pool is now URAMALAKA 24, us 16, FLPselver 15, chcumming1 14, vins 9, KHART88 9, HARRIGAN000 9, and six 7-entry blocks whole (MESALZ, raiders4ever, KPC, SDTICONAK, BWTW, EBENNY).\n\nWeek 6 lines today: Rams -12.5 vs Arizona, Chiefs -8.5 vs the Chargers (McConkey, Alt, James all hurt), Patriots -7.5 vs the Jets (Hall out), 49ers -7.5 vs Washington Monday (Deebo Samuel OUT, Bosa TBD; Washington on a third quarterback), Colts -7, Ravens up to -5.5 at Cleveland (Lamar day-to-day, did not practice Wednesday), Bills -5.5 at Las Vegas. Weather is a non-factor everywhere (Foxborough 53° light wind, Kansas City 66°, Santa Clara fog). The board stands: Chiefs x6, 49ers x6, Patriots x4, Rams held. Expected survivors about 11 of 16.\n\nWEEK 7 — real lines are now posted and they move the pairing. Rams -7 at Las Vegas (~70%), Texans -7 vs the Giants (~70%), Broncos only -5.5 at Arizona (~65%, down from -7.5), Vikings -5.5 vs Indianapolis, Jets -4.5 vs Miami, 49ers -4.5 at Atlanta. The planner currently has RAMS on all 16 as the first leg with Broncos x12 / 49ers x4 as the second (from Tuesday’s Ask THE APP). Two problems with that on today’s numbers: the Texans are now as strong as the Rams and the Broncos are weaker than both; and Rams on all 16 makes one 30% upset fatal to the whole block. Pairs on today’s lines: Rams + Texans 49%, Rams + Broncos 45%, Texans + Broncos 45%, Rams + Vikings 45%. My recommendation for Tuesday: Rams + Texans on 8, Texans + Broncos or Rams + Vikings on the other 8, so no single game can take all 16. Nothing locks until next Thursday; re-check after Sunday.",
+  "7": "SUNDAY, Oct 25, 9 AM — lines re-pulled from DraftKings via ESPN. Movement since Friday: Jets -4.5 to -3.5 (Breece Hall upgraded to questionable, but the number went the wrong way), Rams -4.5 to -3.5 (Nacua still a pregame decision), Texans steady at -10.5 with both starting safeties (Pitre, Blankenship) and Montgomery out, Broncos steady at -4.5 with Surtain questionable. Elsewhere: Lamar Jackson is OUT, so Cincinnati flipped to -3 at Baltimore; Vikings up to -6.5, Lions -3.5, Steelers -3, Seahawks -3 vs KC. Pair odds now: Texans+Jets 48%, Texans+Broncos 49%, Rams+Jets 36%. Expected survivors about 5.4 of 12. The board stands; the only live decision is the Rams leg on #4, 12, 24 if Nacua is inactive.\n\n— — PREVIOUS: SATURDAY, Oct 24, 4 PM — board check, no changes. Thursday: Bears 30, Patriots 24 (none of ours; field effect shows at the Sunday 1 PM reveal). Final designations: DENVER — Surtain QUESTIONABLE after a full week of limited practice (hasn’t played since Week 4) and that is an upgrade; Hufanga, Elliss and Badie are OUT, but Arizona is more banged up: Love, Wingard, Nolen and Gaines OUT, Budda Baker questionable. RAMS — Nacua is a true game-time decision (pregame workout Sunday; McVay calls the calf ‘minor’); with Adams already out, if Nacua is inactive the sharper play is swapping the Rams leg on #4, 12, 24 to DENVER (all three hold it) — say the word Sunday morning and it’s re-dealt; otherwise the Rams leg stands. JETS/TEXANS — no new flags beyond Hall doubtful and Montgomery doubtful. Our games all kick 1:00 PM or later, so the real deadline is Sunday ~12:55 PM ET.\n\n— — PREVIOUS: FRIDAY, Oct 23, 11 AM — FINAL Week 7 board, dealt on today's lines and the Friday injury reports. The market moved all week: Texans are now -10.5 vs the Giants (the only premium number on the board); the Rams fell to -4.5 at Las Vegas — Davante Adams is OUT 6-10 weeks (hamstring) and Puka Nacua is questionable (calf, DNP Friday); the Broncos sit -4.5 at Arizona; the Jets are -4.5 vs 1-5 Miami with the week's lowest total (Breece Hall doubtful); the 49ers collapsed to -2.5 at Atlanta (Deebo doubtful, Evans' Achilles flared — off our board); and Dallas is -4.5 AT Philadelphia with the Eagles on backup QB Tanner McKee — which also dents PHI's Week 13 value and raises what Denver is worth. The VIKINGS ARE OFF OUR BOARD entirely: every alive entry burned Minnesota in Week 4, so Monday's provisional SF+MIN legs were invalid and have been replaced.\n\nTHE BOARD for the 12 (two picks each, both must win): TEXANS + JETS on #6, 14, 17, 20, 23 (~50% joint) — the two cheapest burns in the pool, and it keeps Denver banked for the Week 13 anchor on the four entries that burned Philadelphia. TEXANS + BRONCOS on #3, 5, 27, 28 (~49%) — these four still hold PHI for Week 13, so Denver is spendable; Denver is on 10 days' rest with the defense carrying a slumping offense. RAMS + JETS on #4, 12, 24 (~39%) — the no-Houston hedge: if the Texans get shocked, these three keep the season alive; all three hold DEN and PHI for Week 13, and Buffalo/Seattle cover their Week 10 once the Rams are spent. Exposure: Texans 9, Jets 8, Broncos 4, Rams 3 — no single upset can end the season; expected survivors about 5.6 of 12. Sunday morning checklist: Houston's inactives (Montgomery doubtful), Nacua's status on the Rams leg, Surtain's status for Denver (ankle, missed last week), and the Thursday NE-CHI result's effect on the field (not available at this sweep).\n\n— — PREVIOUS: Week 7 opening read, Mon Oct 19 — Sunday was the bloodbath the pool was built for. The Rams lost 18-16 to Arizona as 12.5-point favorites and the Colts lost 26-20 to Tennessee; the Ravens lost at Cleveland too. 138 of the 279 entries that went into the week are out (Rams 90, Colts 48) with the 49ers’ 38 still playing Monday night. We lost four: #8 and #19 on the Rams, #9 and #22 on the Colts. The Chiefs (22-6) and Patriots (26-19) both won, so 12 of 16 are alive: #3, 4, 5, 12, 24, 27 (Chiefs) and #6, 14, 17, 20, 23, 28 (Patriots). There are no buybacks any more, so those four are gone.\n\nThe field after Sunday: URAMALAKA 28 of 42 (lost 14 — Rams 8, Colts 6), us 12, vins 12 of 21 (lost 9: Colts 6, Rams 3; 6 on the 49ers tonight), FLPselver 10 of 28 (lost 5 on the Rams; 5 on the 49ers tonight), KHART88 7 of 14 (lost 5), chcumming1 6 of 14 (lost 8 on the Rams — the worst hit in the pool), pat-1 6, raiders4ever 5, KPC 5, LouG 4, MESALZ 4. 140 alive before Monday night; about 140 still if the 49ers win, 102 if they lose. We are tied for second with vins behind URAMALAKA.\n\nWEEK 7 is the double week: two picks per entry, both must win, no buyback. Lines so far: Rams -7 at Las Vegas, Texans -7 vs the Giants, Vikings -5.5 vs Indianapolis, Jets -4.5 vs Miami, 49ers -4.5 at Atlanta; Broncos at Arizona, Chiefs at Seattle and Cowboys at Eagles are not posted yet (look-ahead Broncos -5.5). Your direction was no Rams on everyone — split the first leg equally across Broncos, Rams and 49ers. Provisional board for the 12, to be re-dealt Tuesday on the real lines: Rams + Texans on #3, 5, 6, 12 (they used the 49ers already); Broncos + Texans on #4, 24, 27, 28; 49ers + Vikings on #14, 17, 20, 23. No team carries more than 8 of the 12, and the Rams coming off a loss at -7 at Las Vegas is the leg to watch. Expected survivors on the look-ahead numbers: about 5.5 of 12.",
+  "8": "TUESDAY, Oct 27 — Week 7 was the double-pick disaster the rule threatened. The Giants beat Houston 27-21 in overtime as 10.5-point underdogs, and Miami beat the Jets 28-25. Houston was on 9 of our 12 and the Jets on 8, so 10 entries are out: #3, 4, 6, 12, 14, 17, 20, 23, 24, 27. Denver won 30-16 at Arizona, the Rams won 35-21, Pittsburgh won 16-10 in Paris and Cincinnati won 35-13 at Baltimore. Two entries survive: #5 (Denver + Pittsburgh) and #28 (Denver + Cincinnati). Elsewhere: Atlanta 29-20 over the 49ers, Seattle 20-3 over Kansas City, Detroit 20-17 over Green Bay, Tampa 43-13 at Carolina.\n\nWEEK 8 BOARD for the two (one pick each): #5 on the BENGALS (-10.5 vs Tennessee, about 78%), the best number on the board and still open to #5. #28 on the JAGUARS (-7.5 vs Indianapolis, about 71%); #28 already used Cincinnati and New England. That puts the two entries on different games, so one upset can't end both. Next best: #5 Jaguars or Patriots (-7.5 at Miami); #28 Rams (-6.5 vs the Chargers). Dallas (-6.5) is used by both. Expected survivors about 1.5 of 2. Still to do: Splash wasn't re-read this sweep, so confirm both entries show alive and check the field count; tap Finalize Week for Week 7; then run the Tuesday injury sweep.\n\n— — PREVIOUS (Week 7): see Week 7.",
+  "10": "TUESDAY, Nov 10 (PM) — WEEK 10 BOARD DEALT on fresh lines: #5 on the JAGUARS (-10.5 at Tennessee, ~78%) — the week's biggest number; the line moved from a -2.5 look-ahead to -10.5. #28 on the RAMS (-9.5 at Arizona, ~75%) — exactly its season-path slot, and Arizona just lost 17-3 at Seattle with Minshew at QB. Different games, so one upset can't end both. Banked: SEA, BUF, GB, DET, BAL on both; SF/LAC/PIT/TB extra on #28. SEAHAWKS NOTE: Darnold is OUT again; Lock's oblique tests came back good and he's expected to start at Las Vegas (-3.5), but a backup QB at -3.5 on the road is not a survivor number — SEA stays banked for after their Week 11 bye. Other movement: SF flipped from +1.5 to -3.5 at Dallas; DET only -2.5 vs New England in Munich (9:30 AM ET kickoff — do not trust a short line in that game); BUF -7.5 at the Jets is the backup option for either entry. Enter JAX on #5 and LAR on #28 on Splash before Sunday 1 PM ET; the Thursday game (NYG -2.5 vs WAS) is nothing of ours.\n\nINJURY RE-DEAL (Tue night): the manager flagged the Rams and the sweep confirmed it — Puka Nacua to IR (MCL+PCL sprain, turf toe, “at least a month” per McVay), Davante Adams already on IR, TE Ferguson out. LA is down its top two receivers, so the RAMS ARE SHELVED until ~Week 14 and #28’s Week 10 pick moves from LAR to the BILLS (-7.5 at the Jets, 71% — Garrett Wilson is in concussion protocol, so the Jets are missing their best receiver too). FINAL PATHS — #5: wk10 JAX at TEN 78%, wk11 BUF HOME vs MIA 80%, wk12 NYG at IND 57% (thin — backup QB; home Houston vs BAL 60% is the alternative), wk13 SEA HOME vs DAL 63%, wk14 DET HOME vs TEN 71%, wk15 GB HOME vs MIA 78%, wk16 NE at NYJ 68%, wk17 LAR at TB 63% (Nacua due back by then), wk18 HOU HOME vs TEN 69% — 3.6%. #28: wk10 BUF at NYJ 71%, wk11 CHI HOME vs NO 71%, wk12 TB HOME vs CAR 60%, wk13 SEA HOME vs DAL 63%, wk14 DET HOME vs TEN 71%, wk15 GB HOME vs MIA 78%, wk16 PIT HOME vs CAR 60%, wk17 SF HOME vs PHI 71%, wk18 HOU HOME vs TEN 69% — 3.0%. League sweep notes: Mahomes day-to-day (shaken up vs the Jets — watch before trusting KC lines), Micah Parsons knee reports conflict (matters for the GB Week 15 hold), Seattle G Quenton Nelson week-to-week (back for Wk 13), Minshew elbow TBD with rookie Carson Beck possibly debuting for Arizona. Banned as picks: BAL, IND, LAC, NO, PHI, ARI, TEN, NYJ, MIA, CLE, LV; LAR weeks 10–13.\n\nWEEK 9 RECAP — verified vs Splash (NOT the SEA/SEA the board had): #5 BEARS 27-24 over Tampa (walk-off FG after five turnovers), #28 CHIEFS 35-12 over the Jets. Both entries 9-for-9, and Seattle is still open on both."
+ },
+ "recaps": {
+  "1": {
+   "NE@SEA": "Wednesday-night opener. Seahawks -3 at home; they're a hold for us (ARI twice, Wk 2 and 9). Patriots matter more: they're the Week 5 must-win spend — a healthy Maye/offense showing is what we want out of this game, not the result. No QB flags in the Sep 9 sweep.",
+   "SF@LAR": "The Melbourne game — both NFC West heavyweights on 20+ hours of travel, which is exactly why it's avoided as a pick. Rams: Stafford is the reigning MVP with Myles Garrett now on that defense. 49ers are our planned Week 2–3 spend, so watch this one for injuries, not the score.",
+   "TB@CIN": "Burrow at home, -3.5. Neither side figures in our plans before late season (Bengals are Wk 18 filler at best). No flags Sep 9.",
+   "NO@DET": "OUR GAME. Lions healthy — Goff clean in the Sep 9 sweep — in a dome against a rebuilding Saints team starting second-year QB Tyler Shough. That QB gap is the pick. DET -7.",
+   "NYJ@TEN": "Two throwaway-tier teams; only relevance is that both are opponents in our later elite spots (NYJ feeds half the board's 85% weeks). Titans -1.5.",
+   "BAL@IND": "Lamar healthy, but Ravens only -3.5 on the road — exactly why the plan saves them for Wk 4 (TEN) and Wk 16 (CLE) at home. Watch health only.",
+   "ATL@PIT": "Steelers -3.5 at home. PIT is a Wk 8 spot (CLE) for us; Falcons are a non-factor. No flags Sep 9.",
+   "CHI@CAR": "Bears -3 on the road; their value to us is the Wk 4 home date with the Jets — a sharp showing here firms that pick up.",
+   "CLE@JAX": "OUR GAME. Jaguars -8.5 at home in September Florida heat; Lawrence healthy (Ewers behind him as insurance). Browns start Deshaun Watson and traded Myles Garrett away — this is the burnable opponent the whole Week 1 plan leans on.",
+   "BUF@HOU": "Bills only -1.5 in Houston — the market respects the Texans at home. Buffalo is a premium hold (Wk 11 vs MIA, Wk 18 vs NYJ); root for a clean, healthy win and nothing more.",
+   "MIA@LV": "Raiders -3.5 at home over the league's worst road team profile. Both are opponents-not-picks for us all season.",
+   "GB@MIN": "Vikings -1.5 in the dome, with Kyler Murray now in purple per the offseason move. Packers are a one-spot hold (Wk 15 vs MIA) — health watch only.",
+   "WAS@PHI": "OUR GAME — the thin one, 3 entries. Eagles -5.5 in a divisional game; Philadelphia enters healthy, but Jayden Daniels is back from his lost 2025 and this is the pick most likely to make us use a $125 buyback. Eyes on the Friday report and Sunday wind at the Linc.",
+   "ARI@LAC": "OUR GAME — the anchor, 9 entries deep. Herbert fully healthy; the season-long loss of C Biadasz is old news and in the price. Arizona starts Jacoby Brissett (Murray left), has rookie RB Love nursing an ankle and two rookie starters already on IR. Line eased -10.5 to -9.5 on kickoff day — drift, not news. ~80%.",
+   "DAL@NYG": "Cowboys -3 at MetLife. Dallas is a one-spot hold (Wk 8 vs ARI); Giants are Wk 3–4 throwaway material. Nothing here for us.",
+   "DEN@KC": "The coin flip we're avoiding: Mahomes' first game back from the torn ACL, Bo Nix also returning from injury. KC is a prime hold (Wk 9 NYJ, Wk 11 ARI) — what matters tonight is how the knee looks, not who wins."
+  },
+  "2": {
+   "MIA@SF": "OUR GAME (×5, 4:25). 49ers -12.5 at home. Purdy, McCaffrey clean; Kittle cleared. Miami is missing two linebackers and any hope. Watch the 2:55 PM inactives only for K Pineiro (illness).",
+   "LV@LAC": "OUR GAME (×5, 4:05). Chargers -6.5 at home. McConkey (ribs) questionable but trending toward playing; Pipkins and Molden out. Vegas has Bowers doubtful and CB Porter out. Herbert clean.",
+   "SEA@ARI": "THE BROKEN LEG — default C pick, move recommended. Sam Darnold is expected OUT (unique glute-tendon injury, no firm timeline); the line collapsed -10 → -4.5, the week's biggest move. Arizona is 1-0 off the LAC upset and got healthier. A backup QB, on the road, at -4.5, in a pool where a tie loses — this is exactly the pick we don't take.",
+   "CLE@TB": "OUR GAME (×7, 1 PM). Bucs -8.5 at home, no one out. Mayfield clean. Cleveland without G Teven Jenkins, two corners questionable — against a defense that lives on the interior.",
+   "NO@BAL": "C's premium landing spot. Ravens -8.5 at home over a rebuilding Saints team; ~77%. Cost side: burns the Wk-4 (vs TEN) and Wk-16 (vs CLE) anchor — and DK just made BAL its Super Bowl favorite (+750). Health: Zay Flowers (day-to-day) and CB Marlon Humphrey-tier depth banged up — nothing that moves an -8.5 vs NO. Kamara was questionable in Wk 1.",
+   "PHI@TEN": "OUR GAME (×8, 1 PM) — our biggest slice. Eagles -7 on the road. Hurts and Barkley clean; OLB Greenard out (pass rush), S Mukuba questionable. Tennessee has nothing on the report and nothing on the field.",
+   "DET@BUF": "HOLD-WATCH ONLY — Thursday night. Detroit is a +4.5 UNDERDOG at Buffalo; all 28 entries still hold DET and everyone holds BUF. Nobody picks either side. What matters: health on two of our best late-season anchors, and Buffalo showing the form that has DK at +800.",
+   "CAR@ATL": "OUR GAME (×3, 1 PM). Panthers -2.5 on the road — the line flipped from ATL -1.5 during the week because Atlanta lost BOTH quarterbacks again: Penix OUT (knee), Tua doubtful (oblique), so a third-stringer likely starts, plus CB Bowman out and Lindstrom/Terrell questionable. Carolina is healthy (only DT Bobby Brown out). Still the thinnest number on our board — a divisional road game where a tie is a loss — but the QB gap is real and it’s the PoolGenius contrarian play (1% of the public)."
+  },
+  "3": {
+   "KC@MIA": "OUR ANCHOR (×11, 1 PM). Chiefs -10.5 on the road at the worst team in the league (Miami +100000). KC filed no notable injuries; Mahomes healthy. Miami is down WR Caleb Douglas. The market will make this the pool’s chalk — fine; it’s also the best number.",
+   "ARI@SF": "OUR GAME (×10, 4:05). 49ers -8.5 at home. Purdy limited Wed (left shoulder, toe) — watch Friday; McCaffrey full; WRs Mike Evans (hip) and Demarcus Robinson (ankle) DNP Wed. Arizona has several starters on its report. Already used on #2, 7, 16, 18, 26.",
+   "NYJ@DET": "OUR GAME (×7, 1 PM). Lions -6.5 at home. Goff, Gibbs, St. Brown clean; OL Mahogany and Miller returning; secondary thin (Branch, Joseph out, Harper DNP). Jets without TE Mason Taylor. Usable at ~71%, not premium — the pick that could move if Darnold is cleared.",
+   "SEA@WAS": "OPTION, not on the board yet (1 PM). Seahawks -7. Darnold returned to practice limited Wed; decision expected Friday. Washington has lost Jayden Daniels (elbow). If Darnold starts, this is a ~73% pick and a candidate to replace Lions on #2/7/16/18.",
+   "LAC@BUF": "HOLD-WATCH. Bills -7 vs the Chargers. BUF is our Week 11/18 anchor — not spending it at -7. WRs Moore (shoulder) and Coleman (ankle) banged up.",
+   "ATL@GB": "PASS (Thu). Packers -4.5 with BOTH starting tackles out; Penix returns for Atlanta. GB is a one-spot hold (Wk 15) anyway.",
+   "PHI@CHI": "PASS (Mon). Eagles -4.5 at Chicago with Caleb Williams out — PHI is already used on 13 entries and 65% is not survivor grade.",
+   "TEN@NYG": "OFF THE BOARD. Giants -3 but Jaxson Dart is out for the season (knee) — the planned Wk 3/4 filler is gone."
+  }
+ }
+}

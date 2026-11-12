@@ -1,0 +1,452 @@
+{
+ "YanksPads1": {
+  "used": [
+   "NE",
+   "CHI"
+  ],
+  "rows": [
+   {
+    "w": 10,
+    "t": "JAX",
+    "opp": "@ TEN",
+    "sp": "JAX -10.5",
+    "p": 78,
+    "cum": 77.6,
+    "t_": "Sun Nov 15 · 1:00 PM ET"
+   },
+   {
+    "w": 11,
+    "t": "KC",
+    "opp": "vs ARI",
+    "sp": "KC -11.5",
+    "p": 80,
+    "cum": 61.8,
+    "t_": "Sun Nov 22 · 1:00 PM ET"
+   },
+   {
+    "w": 12,
+    "t": "CIN",
+    "opp": "vs NO",
+    "sp": "CIN -6.5",
+    "p": 68,
+    "cum": 42,
+    "t_": "Sun Nov 29 · 1:00 PM ET"
+   },
+   {
+    "w": 13,
+    "t": "DEN",
+    "opp": "vs MIA",
+    "sp": "DEN -9.5",
+    "p": 75,
+    "cum": 31.7,
+    "t_": "Sun Dec 6 · 4:05 PM ET"
+   },
+   {
+    "w": 14,
+    "t": "SEA",
+    "opp": "vs NYG",
+    "sp": "SEA -7.5",
+    "p": 71,
+    "cum": 22.4,
+    "t_": "Sun Dec 13 · 4:25 PM ET"
+   },
+   {
+    "w": 15,
+    "t": "GB",
+    "opp": "vs MIA",
+    "sp": "GB -10.5",
+    "p": 78,
+    "cum": 17.3,
+    "t_": "Sun Dec 20 · 1:00 PM ET"
+   },
+   {
+    "w": 16,
+    "t": "DET",
+    "opp": "vs NYG",
+    "sp": "DET -4.5",
+    "p": 63,
+    "cum": 10.9,
+    "t_": "Mon Dec 28 · 8:15 PM ET"
+   },
+   {
+    "w": 17,
+    "t": "BUF",
+    "opp": "@ MIA",
+    "sp": "BUF -7.5",
+    "p": 71,
+    "cum": 7.7,
+    "t_": "Sun Jan 3 · 1:00 PM ET"
+   },
+   {
+    "w": 18,
+    "t": "SF",
+    "opp": "@ ARI",
+    "sp": "SF -8.5",
+    "p": 73,
+    "cum": 5.6,
+    "t_": "Sun Jan 10 · 12:00 AM ET"
+   }
+  ],
+  "path": 5.6
+ },
+ "YanksPads2": {
+  "used": [
+   "JAX",
+   "KC"
+  ],
+  "rows": [
+   {
+    "w": 10,
+    "t": "BUF",
+    "opp": "@ NYJ",
+    "sp": "BUF -7.5",
+    "p": 71,
+    "cum": 70.6,
+    "t_": "Sun Nov 15 · 1:00 PM ET"
+   },
+   {
+    "w": 11,
+    "t": "CHI",
+    "opp": "vs NO",
+    "sp": "CHI -7.5",
+    "p": 71,
+    "cum": 49.8,
+    "t_": "Sun Nov 22 · 1:00 PM ET"
+   },
+   {
+    "w": 12,
+    "t": "CIN",
+    "opp": "vs NO",
+    "sp": "CIN -6.5",
+    "p": 68,
+    "cum": 33.9,
+    "t_": "Sun Nov 29 · 1:00 PM ET"
+   },
+   {
+    "w": 13,
+    "t": "SEA",
+    "opp": "vs DAL",
+    "sp": "SEA -4.5",
+    "p": 63,
+    "cum": 21.3,
+    "t_": "Mon Dec 7 · 8:15 PM ET"
+   },
+   {
+    "w": 14,
+    "t": "DET",
+    "opp": "vs TEN",
+    "sp": "DET -7.5",
+    "p": 71,
+    "cum": 15,
+    "t_": "Sun Dec 13 · 1:00 PM ET"
+   },
+   {
+    "w": 15,
+    "t": "GB",
+    "opp": "vs MIA",
+    "sp": "GB -10.5",
+    "p": 78,
+    "cum": 11.6,
+    "t_": "Sun Dec 20 · 1:00 PM ET"
+   },
+   {
+    "w": 16,
+    "t": "NE",
+    "opp": "@ NYJ",
+    "sp": "NE -6.5",
+    "p": 68,
+    "cum": 7.9,
+    "t_": "Sun Dec 27 · 1:00 PM ET"
+   },
+   {
+    "w": 17,
+    "t": "SF",
+    "opp": "vs PHI",
+    "sp": "SF -7.5",
+    "p": 71,
+    "cum": 5.6,
+    "t_": "Sun Jan 3 · 8:20 PM ET"
+   },
+   {
+    "w": 18,
+    "t": "HOU",
+    "opp": "vs TEN",
+    "sp": "HOU -7",
+    "p": 69,
+    "cum": 3.9,
+    "t_": "Sun Jan 10 · 12:00 AM ET"
+   }
+  ],
+  "path": 3.9
+ },
+ "YanksPads3": {
+  "used": [
+   "CIN",
+   "DET"
+  ],
+  "rows": [
+   {
+    "w": 10,
+    "t": "HOU",
+    "opp": "@ CLE",
+    "sp": "HOU -4.5",
+    "p": 63,
+    "cum": 62.7,
+    "t_": "Sun Nov 15 · 1:00 PM ET"
+   },
+   {
+    "w": 11,
+    "t": "KC",
+    "opp": "vs ARI",
+    "sp": "KC -11.5",
+    "p": 80,
+    "cum": 50,
+    "t_": "Sun Nov 22 · 1:00 PM ET"
+   },
+   {
+    "w": 12,
+    "t": "JAX",
+    "opp": "vs TEN",
+    "sp": "JAX -5.5",
+    "p": 65,
+    "cum": 32.7,
+    "t_": "Sun Nov 29 · 4:05 PM ET"
+   },
+   {
+    "w": 13,
+    "t": "DEN",
+    "opp": "vs MIA",
+    "sp": "DEN -9.5",
+    "p": 75,
+    "cum": 24.6,
+    "t_": "Sun Dec 6 · 4:05 PM ET"
+   },
+   {
+    "w": 14,
+    "t": "SEA",
+    "opp": "vs NYG",
+    "sp": "SEA -7.5",
+    "p": 71,
+    "cum": 17.4,
+    "t_": "Sun Dec 13 · 4:25 PM ET"
+   },
+   {
+    "w": 15,
+    "t": "GB",
+    "opp": "vs MIA",
+    "sp": "GB -10.5",
+    "p": 78,
+    "cum": 13.5,
+    "t_": "Sun Dec 20 · 1:00 PM ET"
+   },
+   {
+    "w": 16,
+    "t": "NE",
+    "opp": "@ NYJ",
+    "sp": "NE -6.5",
+    "p": 68,
+    "cum": 9.2,
+    "t_": "Sun Dec 27 · 1:00 PM ET"
+   },
+   {
+    "w": 17,
+    "t": "BUF",
+    "opp": "@ MIA",
+    "sp": "BUF -7.5",
+    "p": 71,
+    "cum": 6.5,
+    "t_": "Sun Jan 3 · 1:00 PM ET"
+   },
+   {
+    "w": 18,
+    "t": "SF",
+    "opp": "@ ARI",
+    "sp": "SF -8.5",
+    "p": 73,
+    "cum": 4.7,
+    "t_": "Sun Jan 10 · 12:00 AM ET"
+   }
+  ],
+  "path": 4.7
+ },
+ "YanksPads4": {
+  "used": [
+   "CIN",
+   "JAX"
+  ],
+  "rows": [
+   {
+    "w": 10,
+    "t": "BUF",
+    "opp": "@ NYJ",
+    "sp": "BUF -7.5",
+    "p": 71,
+    "cum": 70.6,
+    "t_": "Sun Nov 15 · 1:00 PM ET"
+   },
+   {
+    "w": 11,
+    "t": "KC",
+    "opp": "vs ARI",
+    "sp": "KC -11.5",
+    "p": 80,
+    "cum": 56.2,
+    "t_": "Sun Nov 22 · 1:00 PM ET"
+   },
+   {
+    "w": 12,
+    "t": "MIN",
+    "opp": "vs ATL",
+    "sp": "MIN -4.5",
+    "p": 63,
+    "cum": 35.3,
+    "t_": "Sun Nov 29 · 1:00 PM ET"
+   },
+   {
+    "w": 13,
+    "t": "SEA",
+    "opp": "vs DAL",
+    "sp": "SEA -4.5",
+    "p": 63,
+    "cum": 22.1,
+    "t_": "Mon Dec 7 · 8:15 PM ET"
+   },
+   {
+    "w": 14,
+    "t": "DET",
+    "opp": "vs TEN",
+    "sp": "DET -7.5",
+    "p": 71,
+    "cum": 15.6,
+    "t_": "Sun Dec 13 · 1:00 PM ET"
+   },
+   {
+    "w": 15,
+    "t": "LAR",
+    "opp": "vs DAL",
+    "sp": "LAR -6",
+    "p": 67,
+    "cum": 10.4,
+    "t_": "Sun Dec 20 · 4:25 PM ET"
+   },
+   {
+    "w": 16,
+    "t": "NE",
+    "opp": "@ NYJ",
+    "sp": "NE -6.5",
+    "p": 68,
+    "cum": 7.1,
+    "t_": "Sun Dec 27 · 1:00 PM ET"
+   },
+   {
+    "w": 17,
+    "t": "SF",
+    "opp": "vs PHI",
+    "sp": "SF -7.5",
+    "p": 71,
+    "cum": 5,
+    "t_": "Sun Jan 3 · 8:20 PM ET"
+   },
+   {
+    "w": 18,
+    "t": "HOU",
+    "opp": "vs TEN",
+    "sp": "HOU -7",
+    "p": 69,
+    "cum": 3.5,
+    "t_": "Sun Jan 10 · 12:00 AM ET"
+   }
+  ],
+  "path": 3.5
+ },
+ "YanksPads5": {
+  "used": [
+   "NE",
+   "CHI"
+  ],
+  "rows": [
+   {
+    "w": 10,
+    "t": "JAX",
+    "opp": "@ TEN",
+    "sp": "JAX -10.5",
+    "p": 78,
+    "cum": 77.6,
+    "t_": "Sun Nov 15 · 1:00 PM ET"
+   },
+   {
+    "w": 11,
+    "t": "BUF",
+    "opp": "vs MIA",
+    "sp": "BUF -11.5",
+    "p": 80,
+    "cum": 61.8,
+    "t_": "Sun Nov 22 · 1:00 PM ET"
+   },
+   {
+    "w": 12,
+    "t": "CIN",
+    "opp": "vs NO",
+    "sp": "CIN -6.5",
+    "p": 68,
+    "cum": 42,
+    "t_": "Sun Nov 29 · 1:00 PM ET"
+   },
+   {
+    "w": 13,
+    "t": "DEN",
+    "opp": "vs MIA",
+    "sp": "DEN -9.5",
+    "p": 75,
+    "cum": 31.7,
+    "t_": "Sun Dec 6 · 4:05 PM ET"
+   },
+   {
+    "w": 14,
+    "t": "SEA",
+    "opp": "vs NYG",
+    "sp": "SEA -7.5",
+    "p": 71,
+    "cum": 22.4,
+    "t_": "Sun Dec 13 · 4:25 PM ET"
+   },
+   {
+    "w": 15,
+    "t": "LAR",
+    "opp": "vs DAL",
+    "sp": "LAR -6",
+    "p": 67,
+    "cum": 14.9,
+    "t_": "Sun Dec 20 · 4:25 PM ET"
+   },
+   {
+    "w": 16,
+    "t": "DET",
+    "opp": "vs NYG",
+    "sp": "DET -4.5",
+    "p": 63,
+    "cum": 9.4,
+    "t_": "Mon Dec 28 · 8:15 PM ET"
+   },
+   {
+    "w": 17,
+    "t": "SF",
+    "opp": "vs PHI",
+    "sp": "SF -7.5",
+    "p": 71,
+    "cum": 6.6,
+    "t_": "Sun Jan 3 · 8:20 PM ET"
+   },
+   {
+    "w": 18,
+    "t": "KC",
+    "opp": "vs LV",
+    "sp": "KC -8.5",
+    "p": 73,
+    "cum": 4.8,
+    "t_": "Sun Jan 10 · 12:00 AM ET"
+   }
+  ],
+  "path": 4.8
+ }
+}
